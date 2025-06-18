@@ -46,8 +46,9 @@ This is not a ladder. It’s a spiral.
 
 - `FRAMEWORK.md` – the foundational model
 - `MANIFESTO.md` – poetic statement of intent
-- `ZINE/` – printable and visual fragments (in progress)
+- `ZINES/` – printable and visual fragments (in progress)
 - `CLI/` – experimental scripts & tools for liberation-aware systems design
+- `ASSETS/` – visuals, diagrams, and brand elements for remixing & reuse
 
 ---
 
