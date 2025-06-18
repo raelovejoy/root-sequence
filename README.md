@@ -48,7 +48,7 @@ This is not a ladder. It’s a spiral.
 - `MANIFESTO.md` – poetic statement of intent
 - `ZINES/` – printable and visual fragments (in progress)
 - `CLI/` – experimental scripts & tools for liberation-aware systems design
-- `ASSETS/` – visuals, diagrams, and brand elements for remixing & reuse
+- `ASSETS/` – visuals, diagrams, and brand elements for remixing & reuse (in progress)
 
 ---
 
