@@ -78,8 +78,8 @@ This is a space for tuning, feeling, and reshaping systems—together.
 
 ## 📜 License
 
-**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
-This means you’re free to remix, adapt, and reuse it with credit—ideally in the spirit of liberation.
+**[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**
+You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
 
 ---
 
