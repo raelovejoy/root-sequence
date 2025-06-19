@@ -76,9 +76,8 @@ Recurse.
 ## 💬 License & Remixing
 
 This framework is open-source and compostable. Remix it. Fork it. Translate it. 
-Please credit where possible—but more importantly, carry it forward with care.
 
-- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- License: [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 - Repository: [github.com/raelovejoy/root-sequence](https://github.com/raelovejoy/root-sequence)
 
 ---
