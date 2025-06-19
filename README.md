@@ -68,7 +68,7 @@ This project is:
 
 ## 🧠 Inspiration & Intent
 
-- Solarpunk, ancom, and DIY resilience
+- Solarpunk and DIY resilience
 - Free software, federated futures, and post-work dreams
 - Root access—technical, emotional, and collective
 
