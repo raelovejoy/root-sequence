@@ -73,7 +73,7 @@ Recurse.
 
 ---
 
-## 💬 License & Remixing
+## 🔄 Use & Remix
 
 This framework is open-source and compostable. Remix it. Fork it. Translate it. 
 

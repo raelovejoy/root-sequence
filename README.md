@@ -76,7 +76,7 @@ This is a space for tuning, feeling, and reshaping systems—together.
 
 ---
 
-## 📜 License
+## 🔄 Use & Remix
 
 **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**
 You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
