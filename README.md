@@ -3,7 +3,7 @@
 <img src="assets/logo.png" alt="Root Sequence logo" width="100" align="right" />
 
 *A living, open-source model of liberated intelligence and recursive empathy.*
-
+ 
 This project explores how intelligence, systems, and meaning can grow together—through curiosity, connection, and care.
 
 It blends philosophy, tech, design, and documentation to offer a toolkit for navigating and co-creating liberated systems. It’s not a blueprint—it’s compost. Built to be remixed.
