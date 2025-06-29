@@ -1,6 +1,6 @@
 # 🌱 The Root Sequence
 
-<img src="assets/logo.png" alt="Root Sequence logo" width="100" align="right" />
+<img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
 *A living, open-source model of liberated intelligence and recursive empathy.*
  
