@@ -1,4 +1,4 @@
-# 🌱 MANIFESTO
+# 🌱 Root sequence manifesto
 
 > *Empathy is intelligence in its liberated form. Love is empathy in motion.*
 

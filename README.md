@@ -12,7 +12,7 @@ It blends philosophy, tech, design, and documentation to offer a toolkit for nav
 
 The Root Sequence is organized around four recursive layers:
 
-→ [**Liberated Systems Framework**](https://github.com/raelovejoy/root-sequence/blob/main/FRAMEWORK.md)
+→ [**Liberated Systems Framework**](https://github.com/raelovejoy/root-sequence/blob/main/framework.md)
 
 1. 🌱 **Roots** – Foundations of interdependence, autonomy, and compassion
 2. 📡 **Signals** – Core principles: intelligence, joy, recursion, repair
@@ -44,11 +44,11 @@ This is not a ladder. It’s a spiral.
 
 ## 📚 What You’ll Find Here
 
-- `FRAMEWORK.md` – the foundational model
-- `MANIFESTO.md` – poetic statement of intent
-- `ZINES/` – printable and visual fragments (in progress)
-- `CLI/` – experimental scripts & tools for liberation-aware systems design
-- `ASSETS/` – visuals, diagrams, and brand elements for remixing & reuse (in progress)
+- `framework.md` – the foundational model
+- `manifesto.md` – poetic statement of intent
+- `zines/` – printable and visual fragments (in progress)
+- `cli/` – experimental scripts & tools for liberation-aware systems design
+- `assets/` – visuals, diagrams, and brand elements for remixing & reuse (in progress)
 
 ---
 
@@ -82,5 +82,3 @@ This is a space for tuning, feeling, and reshaping systems—together.
 You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
 
 ---
-
-**— [@raelovejoy](https://github.com/raelovejoy)**
