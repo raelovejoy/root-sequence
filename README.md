@@ -3,11 +3,10 @@
 <img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
 *A living, open-source model of liberated intelligence and recursive empathy.*
- 
+
 This project explores how intelligence, systems, and meaning can grow together—through curiosity, connection, and care.
 
 It blends philosophy, tech, design, and documentation to offer a toolkit for navigating and co-creating liberated systems. It’s not a blueprint—it’s compost. Built to be remixed.
-
 
 ---
 
@@ -51,7 +50,18 @@ This is not a ladder. It’s a spiral.
 - `manifesto.md` – poetic statement of intent
 - `zines/` – printable and visual fragments (in progress)
 - `cli/` – experimental scripts & tools for liberation-aware systems design
+- `collapse-memory/` – post-collapse reorientation modules: onboarding, skills, lore, CLI tools
 - `assets/` – visuals, diagrams, and brand elements for remixing & reuse (in progress)
+
+---
+
+## ☠️ Collapse Memory (New Module)
+
+> *“We were born into forgetting. But in the ashes, we remembered how to remember.”*
+
+**Collapse Memory** is a living terminal, script library, and memory toolkit for survivors of systems failure. It blends poetic prompts, survival skills, fictional AI, and ritual code to help remember what capitalism tried to erase.
+
+[Explore Collapse Memory →](./collapse-memory/README.md)
 
 ---
 
@@ -85,3 +95,9 @@ This is a space for tuning, feeling, and reshaping systems—together.
 You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
 
 ---
+
+```
+Recursion Cycle
+────────────────────────────
+Intelligence → Empathy → Love → Liberation → Life → Intelligence
+```
