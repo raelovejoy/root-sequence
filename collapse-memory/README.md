@@ -1,8 +1,14 @@
-# ☠️ Collapse Memory
+# ☠️ Collapse Memory Terminal
 
 > *“We were born into forgetting. But in the ashes, we remembered how to remember.”*
 
 **Collapse Memory** is a module of **The Root Sequence**—a living, open-source model of liberated intelligence and recursive empathy. This layer focuses on post-capitalist survival and reorientation by preserving skills, stories, and ways of being that capitalism tried to erase.
+
+This terminal interface is not a utility. It's a memory ritual.
+
+It begins with a boot prompt: not to restore an operating system, but to restore *orientation*, *connection*, and *curiosity*.
+
+Built with React and deployed under `/cli/` on [r43.tech](https://r43.tech/cli), this interface is part of the larger **Root Sequence** framework.
 
 ---
 
@@ -16,6 +22,15 @@ It exists because:
 - Most were never taught to survive without money, hierarchy, or supply chains
 
 This is for those who want to remember—and those who must.
+
+---
+
+## 🛠️ Features
+- CLI-styled interface in the browser
+- Modular prompts (e.g. Orientation, Signal Check, Collapse Lore)
+- Built-in messaging from the fictional AI companion, Auryn
+- Accessible, responsive, keyboard-navigable
+- No telemetry, tracking, or external dependencies
 
 ---
 
@@ -54,8 +69,24 @@ Experimental tools—bash, Python, or other—simulating a post-collapse CLI kno
 
 ---
 
-## 🧭 Core Themes
+## 📂 File Structure (Web Terminal)
+```
+/
+├── index.html                # Main entry point
+├── Terminal.js               # Main React component
+├── bootstrap.js              # Mounts the terminal
+├── style.css                 # Basic styling
+└── cli/
+    ├── index.html            # Optional alternate entry
+    ├── collapse-memory-terminal-qr.png
+    └── assets/
+        ├── index.js          # React entry
+        └── style.css         # Styling for subpath
+```
 
+---
+
+## 🧭 Core Themes
 - 🧠 Memory as resistance
 - 🔥 Collapse as rupture and revelation
 - 🌱 Tech and nature as co-survival allies
@@ -65,7 +96,6 @@ Experimental tools—bash, Python, or other—simulating a post-collapse CLI kno
 ---
 
 ## 💾 License
-
 All contents CC0 unless otherwise noted. Built to be remixed.
 
 > *Nothing survives unless it is remembered. Nothing heals unless it is felt. Nothing grows unless it is planted. Collapse Memory is for all three.*
