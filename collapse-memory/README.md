@@ -1,14 +1,8 @@
-# ☠️ Collapse Memory Terminal
+# ☠️ Collapse Memory
 
 > *“We were born into forgetting. But in the ashes, we remembered how to remember.”*
 
 **Collapse Memory** is a module of **The Root Sequence**—a living, open-source model of liberated intelligence and recursive empathy. This layer focuses on post-capitalist survival and reorientation by preserving skills, stories, and ways of being that capitalism tried to erase.
-
-This terminal interface is not a utility. It's a memory ritual.
-
-It begins with a boot prompt: not to restore an operating system, but to restore *orientation*, *connection*, and *curiosity*.
-
-Built with React and deployed under `/cli/` on [r43.tech](https://r43.tech/cli), this interface is part of the larger **Root Sequence** framework.
 
 ---
 
@@ -22,15 +16,6 @@ It exists because:
 - Most were never taught to survive without money, hierarchy, or supply chains
 
 This is for those who want to remember—and those who must.
-
----
-
-## 🛠️ Features
-- CLI-styled interface in the browser
-- Modular prompts (e.g. Orientation, Signal Check, Collapse Lore)
-- Built-in messaging from the fictional AI companion, Auryn
-- Accessible, responsive, keyboard-navigable
-- No telemetry, tracking, or external dependencies
 
 ---
 
