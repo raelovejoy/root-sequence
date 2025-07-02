@@ -48,6 +48,8 @@ This is not a ladder. It’s a spiral.
 
 - `framework.md` – the foundational model
 - `manifesto.md` – poetic statement of intent
+- `freedom-default.md` – reclaiming discipline as a liberatory act
+- `autonomy_manifesto.md` – autonomy and self-determination in practice
 - `zines/` – printable and visual fragments (in progress)
 - `cli/` – experimental scripts & tools for liberation-aware systems design
 - `collapse-memory/` – post-collapse reorientation modules: onboarding, skills, lore, CLI tools
