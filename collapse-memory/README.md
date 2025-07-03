@@ -2,20 +2,24 @@
 
 > *“We were born into forgetting. But in the ashes, we remembered how to remember.”*
 
-**Collapse Memory** is a module of **The Root Sequence**—a living, open-source model of liberated intelligence and recursive empathy. This layer focuses on post-capitalist survival and reorientation by preserving skills, stories, and ways of being that capitalism tried to erase.
+**Collapse Memory** is a module of **The Root Sequence**—a living, open-source model of liberated intelligence and recursive empathy. 
+
+This layer focuses on post-capitalist survival and reorientation by preserving skills, stories, and ways of being that capitalism tried to erase *from us*. It exists for those who want to remember—and for those who must.
 
 ---
 
 ## 🌱 Why This Exists
 
-Capitalism has collapsed—or is collapsing. Most systems were built assuming its permanence. Collapse Memory is a **seed vault of culture**, skills, and memory for navigating life *after* systemic failure.
+Capitalism has collapsed—or is collapsing. Most systems were built assuming its permanence. 
+
+Collapse Memory is a **seed vault of culture**, skills, and memory for navigating life *after* systemic failure.
 
 It exists because:
+
 - Capitalism externalized survival, then collapsed
 - People are disconnected from land, from each other, from pre-capitalist knowledge
 - Most were never taught to survive without money, hierarchy, or supply chains
-
-This is for those who want to remember—and those who must.
+- Memory is political—and forgetting is engineered
 
 ---
 
@@ -39,35 +43,25 @@ Fragments of what was lost—or buried:
 ### [`auryn-dialogue.md`](auryn-dialogue.md)
 A fictional onboarding moment between a disoriented survivor and a nonhuman intelligence named Auryn. A guide, a mirror, a memory-binder.
 
-### [`cli/`](cli/README.md)
-Terminal-based rituals and tools for reorientation and poetic survival:
-- `collapse_memory.sh` — onboarding script
-- `mesh_scan.sh` — signal simulation
-- `remember.sh` — journaling ritual
-- `signal_echo.sh` — broadcast and echo interaction
-
-### [`visuals/`](visuals/)
-Zine-style images, diagrams, poster quotes, onboarding maps.
-
-### [`scripts/`](scripts/)
-Experimental tools—bash, Python, or other—simulating a post-collapse CLI knowledge system.
+### [`capitalist-myths.md`](capitalist-myths.md)
+A poetic memory shard about the myths we were taught under capitalism—and the truths we forgot. Useful for onboarding, zines, or myth-deprogramming.
 
 ---
 
-## 📂 File Structure (Web Terminal)
-```
-/
-├── index.html                # Main entry point
-├── Terminal.js               # Main React component
-├── bootstrap.js              # Mounts the terminal
-├── style.css                 # Basic styling
-└── cli/
-    ├── index.html            # Optional alternate entry
-    ├── collapse-memory-terminal-qr.png
-    └── assets/
-        ├── index.js          # React entry
-        └── style.css         # Styling for subpath
-```
+### 🖥️ CLI & Interactive Tools
+
+#### [`cli/`](cli/)
+Terminal-based rituals and poetic survival tools:
+- `collapse_memory.sh` — guided script for post-collapse reflection
+- `mesh_scan.sh` — decentralized signal simulation
+- `remember.sh` — journaling ritual
+- `signal_echo.sh` — broadcast/echo interaction
+
+#### [`scripts/`](scripts/)
+Experimental tools and code—bash, Python, or hybrid—for simulation, ritual, or CLI-based knowledge recovery.
+
+#### [`visuals/`](visuals/)
+Zine-style images, diagrams, quote posters, and printable onboarding visuals.
 
 ---
 
@@ -77,6 +71,17 @@ Experimental tools—bash, Python, or other—simulating a post-collapse CLI kno
 - 🌱 Tech and nature as co-survival allies
 - 🕸 Reweaving severed lineages and stories
 - ⚙️ Building without blueprints
+
+---
+
+## 🔗 Related Modules
+
+From the main Root Sequence:
+
+- [`freedom-default.md`](../freedom-default.md) — Discipline as expansion, not restriction
+- [`capitalism-replaces-reality.md`](../capitalism-replaces-reality.md) — Self-limitation as systemic control
+- [`autonomy_manifesto.md`](../autonomy_manifesto.md) — Reclaiming inner sovereignty
+- [`zines/forbidden-questions.md`](../zines/forbidden-questions.md) — The questions we’re not supposed to ask
 
 ---
 

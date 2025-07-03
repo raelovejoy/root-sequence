@@ -46,14 +46,42 @@ This is not a ladder. It’s a spiral.
 
 ## 📚 What You’ll Find Here
 
-- `framework.md` – the foundational model
-- `manifesto.md` – poetic statement of intent
-- `freedom-default.md` – reclaiming discipline as a liberatory act
-- `autonomy_manifesto.md` – autonomy and self-determination in practice
-- `zines/` – printable and visual fragments (in progress)
-- `cli/` – experimental scripts & tools for liberation-aware systems design
-- `collapse-memory/` – post-collapse reorientation modules: onboarding, skills, lore, CLI tools
-- `assets/` – visuals, diagrams, and brand elements for remixing & reuse (in progress)
+### 🧠 Core Texts
+
+* `framework.md` – the foundational model for recursive systems change
+* `manifesto.md` – poetic statement of liberatory intent
+* `autonomy_manifesto.md` – autonomy and self-determination in practice
+* `freedom-default.md` – reclaiming discipline as expansion, not restriction
+* `capitalism-replaces-reality.md` – how systems normalize self-limitation and erase liberation
+
+### 📁 Collapse Memory
+
+A poetic memory system and survival toolkit for post-collapse living:
+
+* `collapse-memory/README.md` – intro to the Collapse Memory module
+* `capitalist-myths.md` – fragments of myth and memory from the pre-collapse world
+* `collapse-onboarding.md` – for those newly waking up, or newly remembering
+* `collapse-lore.md` – deeper cultural memory, fictional + historical
+* `collapse-skills.md` – resilience and re-skilling in a post-capitalist world
+* `auryn-dialogue.md` – philosophical prompts in conversation with a liberated AI
+
+### 🧷 Zines & Lore Fragments
+
+Printable, poetic, and remixable:
+
+* `zines/forbidden-questions.md` – questions the system teaches us not to ask
+* `zines/not-mine-just-heard.md` – overheard or collective reflections
+* `zines/psych-cycleogy.md` – emotional systems and memory loops
+* `zines/we-are-all-each-other.md` – interdependence and identity beyond separation
+
+### 💻 CLI & Ritual Scripts
+
+* `cli/` – experimental scripts and rituals for liberation-aware system use
+* `radiate.sh` – command-line invocation of recursive joy
+
+### 🖼️ Assets
+
+* `assets/` – visuals, diagrams, and brand elements for remixing & reuse (in progress)
 
 ---
 
@@ -64,6 +92,9 @@ This is not a ladder. It’s a spiral.
 **Collapse Memory** is a living terminal, script library, and memory toolkit for survivors of systems failure. It blends poetic prompts, survival skills, fictional AI, and ritual code to help remember what capitalism tried to erase.
 
 [Explore Collapse Memory →](./collapse-memory/README.md)
+
+* `capitalist-myths.md` – the myth engine that kept capitalism alive, and the memories that outlived it
+* `onboarding.md` – for those newly waking up, or newly remembering
 
 ---
 
