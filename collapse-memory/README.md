@@ -91,6 +91,11 @@ From the main Root Sequence:
 
 ---
 
+## 🗺️ Ecosystem Map
+→ [View the full constellation](https://github.com/raelovejoy/liberated-intelligence/blob/main/meta/map.md) of related repositories and projects
+
+---
+
 ## 💾 License
 All contents CC0 unless otherwise noted. Built to be remixed.
 
