@@ -98,6 +98,11 @@ Printable, poetic, and remixable:
 
 ---
 
+## 🗺️ Ecosystem Map
+→ [View the full constellation](https://github.com/raelovejoy/liberated-intelligence/blob/main/meta/map.md) of related repositories and projects 
+
+---
+
 ## 🌌 Why This Exists
 
 We believe liberation is a systems question—and systems can change.
