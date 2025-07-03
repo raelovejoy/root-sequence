@@ -85,6 +85,12 @@ From the main Root Sequence:
 
 ---
 
+## 🔗 Related Repositories
+
+* [`liberated-intelligence`](https://github.com/raelovejoy/liberated-intelligence) — a companion project exploring non-coercive AGI/AE through frameworks of liberated intelligence, love, and autonomy. Built as a parallel system to The Root Sequence.
+
+---
+
 ## 💾 License
 All contents CC0 unless otherwise noted. Built to be remixed.
 
