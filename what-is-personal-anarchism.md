@@ -42,4 +42,7 @@ Anarchism, to me, is not a posture or a performance. It is a practice of living 
 > “Anarchism is not about outrage. It’s about removing domination — inside and out.”
 
 > “I don’t need to be understood to be sincere. But it’s nice when it happens.”
+
+---
  
+ → See also: [what-is-liberation.md](what-is-liberation.md)
