@@ -29,7 +29,8 @@ and controlled by corporations.**
 
 ---
 
-![Technofeudalism Conspiracy Wall](/assets/conspiracy-wall.jpg)
+![Alt text: Meme of Charlie Day from *It’s Always Sunny in Philadelphia*, standing in front of a chaotic corkboard covered in papers and red string. He is pointing at the wall with wide eyes, looking frantic and conspiratorial. Used here as a humorous metaphor for mapping the connections between capitalism, technofeudalism, Dark Enlightenment, fascism, MAGA, and billionaire power structures.](../assets/conspiracy-wall.jpg)
+
 
 Sometimes mapping technofeudalism feels like this.
 But the threads really do connect.
