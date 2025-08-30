@@ -5,156 +5,178 @@
 Capitalism was about **accumulation through production**.
 Technofeudalism is about **accumulation through depletion** — like *The Matrix*.
 
-It’s a system where assets (digital platforms, data, natural resources, AI models,
-your body, your mind/attention, etc.) are **enclosed like medieval land** and
-**trapped in walled gardens** (on the wrong side of the grass, if you didn’t realize it).
+It’s a system where assets (platforms, data, natural resources, AI, your body, your attention) are **enclosed like medieval land** and **trapped in walled gardens**.
 Wealth is extracted through **rents, not profits**.
 
 * **Profit (capitalism):** requires markets, circulation, innovation, risk.
-* **Rent (technofeudalism):** requires only ownership of assets; no markets, no innovation.
+* **Rent (technofeudalism):** requires only ownership of assets; no markets, no innovation. For them, money is beneath concern; it’s left for the lower classes to fight over.
 
-Every action ultimately feeds the **lords** — the machines, the extractors, the billionaires.
-They hold so many assets that money itself becomes irrelevant — just an inflationary,
-symbolic reflection of what their holdings are “worth.” For them, money is beneath concern;
-it’s left for the lower classes to fight over.
-
-They live like gods while everyone (including governments) and everything
+They live like lords and gods while everyone (including governments) and everything
 (including nature) struggles to survive.
 
-**Capitalism eating itself while eating us — a two-for-one deal.
-Three-for-one if you include governments, now essentially privatized
-and controlled by corporations.**
+Every action feeds these tech lords/gods (the 'machines,' the extractors, the billionaires).
+They hold so many assets that money itself becomes irrelevant — just an inflationary reflection of what their holdings are “worth.”
 
-**Scary shit.**
+**Capitalism eating itself while eating us — a two-for-one deal.
+Three-for-one if you include governments, now privatized vassals of corporations.**
 
 ---
 
-![Alt text: Meme of Charlie Day from *It’s Always Sunny in Philadelphia*, standing in front of a chaotic corkboard covered in papers and red string. He is pointing at the wall with wide eyes, looking frantic and conspiratorial. Used here as a humorous metaphor for mapping the connections between capitalism, technofeudalism, Dark Enlightenment, fascism, MAGA, and billionaire power structures.](../assets/conspiracy-wall.jpg)
-
-
 Sometimes mapping technofeudalism feels like this.
 But the threads really do connect.
+![Alt text: Meme of Charlie Day in front of a chaotic corkboard with red string, looking frantic and conspiratorial. Used here as a metaphor for mapping the connections between capitalism, technofeudalism, Dark Enlightenment, fascism, MAGA, and billionaire power structures.](../assets/conspiracy-wall.jpg)
 
 ---
 
 ## From Capitalism to Digital Feudalism
 
-* **Capitalism:** wealth through markets, profit from competition.
-* **Technofeudalism:** wealth through rents, profit from enclosing platforms and data.
+* Capitalism: wealth through markets, profit from competition.
+* Technofeudalism: wealth through rents, enclosure of platforms/data.
 
 Like feudal lords owned land, platform billionaires own **digital territory** — clouds, app stores, marketplaces — and extract tolls from all who pass.
+
+Feudal lords once offered protection.
+Techno-lords offer **nothing back** — only extraction.
 
 ---
 
 ## Rent vs. Profit
 
-* **Profit (capitalism):** comes from selling goods and services above cost.
-
-  * Requires innovation, risk, circulation of money.
-* **Rent (technofeudalism):** comes from owning assets and charging access.
-
-  * Requires only possession and enclosure, no innovation.
+* Profit comes from selling goods above cost (circulation, risk, innovation).
+* Rent comes from owning assets and charging access (possession, enclosure, no innovation).
 
 Assets become **batteries**: human, natural, artificial — drained to keep lords alive.
 
 ---
 
+## Money Printing: Tribute Economics
+
+* 2008 bailouts + 2020 stimulus: trillions printed.
+* Most flowed into **assets, not wages**.
+* Tech giants captured nearly all of it through markets, subsidies, and contracts.
+* Ordinary people got scraps: small checks, no wage growth, more debt.
+
+This is **not capitalism**.
+It’s tribute: states feeding lords to keep castles afloat.
+
+---
+
+## Cheapness as Enclosure
+
+* Bezos and Amazon demonstrate how **ultra-low prices** function as weapons.
+* By pushing prices down, Amazon traps both **consumers** and **producers** inside its castle.
+* Once captured, both sides pay **rent**: sellers through fees and commissions, buyers through dependency and data.
+* This is not generosity or capitalism’s competition; it’s **enclosure by cheapness**.
+
+---
+
+## Everyday Enclosures
+
+Technofeudalism is not abstract — it touches daily life:
+
+* **Microwork:** invisible human batteries training AI, transcribing, labeling data.
+* **Gig work:** framed as entrepreneurship, but really survival rented from platforms.
+* **Subscriptions:** no one owns books, music, or software — everything is leased.
+* **Walled gardens:** platforms lock you in; exit is nearly impossible.
+* **Right to repair undermined:** devices locked with DRM, proprietary parts, subscription hardware. Even fixing your own tools is enclosed as a rent domain.
+
+These are the **small moats** of everyday feudal castles — reminders that ownership is gone, replaced by permanent dependency.
+
+---
+
 ## Effects vs. Capitalism
 
-| Feature           | Capitalism                        | Technofeudalism                      |
-| ----------------- | --------------------------------- | ------------------------------------ |
-| Engine of growth  | Profit via production/competition | Rent via asset ownership             |
-| Velocity of money | Circulation drives growth         | Circulation collapses (wealth pools) |
-| Policy tools      | Rates stimulate or cool markets   | Rates inflate/deflate asset bubbles  |
-| Social mobility   | Possible through wages/markets    | Only through asset ownership         |
-| Innovation        | Encouraged                        | Stifled by enclosure                 |
+| Feature           | Capitalism                      | Technofeudalism                     |
+| ----------------- | ------------------------------- | ----------------------------------- |
+| Engine of growth  | Profit, production, markets     | Rent, enclosure, assetization       |
+| Velocity of money | Circulation fuels wages/markets | Wealth pools in castles             |
+| Policy tools      | Rates affect demand             | Rates inflate/deflate asset bubbles |
+| Social mobility   | Possible through work/markets   | Only through asset ownership        |
+| Innovation        | Encouraged                      | Stifled by enclosure                |
 
 ---
 
-## History Repeats
+## Poster Children
 
-* **Feudalism (1000s–1600s):** lords owned land, peasants paid rent/tithes.
-* **Capitalism (1600s–1900s+):** broke feudal bonds, growth through production and profit.
-* **Technofeudalism (2000s–?):** re-feudalization, but of platforms, data, governments, and even intelligence itself.
-
-Capitalism derived from feudalism — and is now looping back into a new **digital feudal order**.
+* **Elon Musk / Tesla / SpaceX / X** → spectacle, enclosure, cult-of-personality, Starlink sovereignty, undermining media.
+* **Peter Thiel / Palantir** → surveillance feudalism, Dark Enlightenment ideology, “coached” by Yarvin.
+* **Jeff Bezos / Amazon / AWS** → cloud feudalism, digital serfdom, knowledge storage lord.
+* **Mark Zuckerberg / Meta** → enclosure of social life itself.
+* **Andreessen / a16z** → finance and crypto castles, “Techno-Optimist Manifesto.”
 
 ---
 
-## Microwork: Modern Digital Serfdom
+## Related Concepts
 
-Technofeudalism hides its foundations. Beneath the shiny surface of “autonomous” AI
-and “platform efficiency” lies an invisible workforce: microworkers and gig workers.
-
-* **Microworkers** label data, tag images, transcribe audio, babysit “autonomous” cars.
-* **Gig workers** deliver food, drive Ubers/Lyfts, clean homes.
-  They’re framed as “entrepreneurs,” but in truth are only **renting access to survive**.
-
-For the platform **lords**, these workers barely exist. They are **line items** on a balance sheet.
-The owners hold so many assets that wages and expenditures are beneath concern.
-From their perspective, the labor is essentially free, infinitely replaceable —
-an endless stream of human batteries keeping the machine(s) alive.
-
-**Modern slavery.**
-Not in chains, but in **debts**.
-Bound by necessity.
-Trapped by algorithms.
-Whipped by **algorithmic whiplash**.
-
-Invisible. Global. Exploited.
-Sustaining the castles of digital gods who don’t even know they exist — nor care.
-As they sip margaritas from low-earth orbit in their **dick rockets**.
+* **Surveillance Capitalism** → behavior mined into data assets.
+* **Enshittification** → platforms degrade as rents increase.
+* **Platform Capitalism** → platforms as ecosystems of extraction.
+* **Data Colonialism** → global South exploited as digital periphery.
+* **Infrastructural Capture** → platforms as sovereign (too important to fail).
+* **Effective Altruism / Philanthrocapitalism** → moral cover for feudal extraction, longtermist justification for elite control.
+* **Tech Zionism** → ideology of a “promised land” for elites (network states, Mars, seasteads), aligned with Dark Enlightenment.
 
 ---
 
 ## Dark Enlightenment and Fascism
 
-* **Dark Enlightenment (Nick Land, NRx):** argues democracy is inefficient,
-  elites/“natural rulers” should run society.
-* **Fascism:** historically fused corporate power + state, enforced hierarchy,
-  anti-democratic, mythic worship of elites.
+* **Dark Enlightenment (Yarvin, Land):** elites should rule, democracy is inefficient.
+* **The Cathedral:** universities, media, civil institutions framed as illegitimate enemies.
+* **Butterfly Revolution:** metaphor for destroying democracy and replacing it with CEO-monarchs.
+* **Fascism:** corporate-state fusion, enforced hierarchy.
+* **Technofeudalism:** economic system enabling both.
 
-**Technofeudalism** is the economic system.
-**Dark Enlightenment** is the ideology that justifies it.
-**Fascism** is the political form it takes.
+MAGA — especially *Dark MAGA* — channels this: figurehead populism masking corporate feudal order.
 
-MAGA — especially *Dark MAGA* — channels this fusion:
-a longing for a past of total ownership and control,
-while billionaires and corporations act as the new monarchs.
+Agenda 47 + Project 2025 align almost perfectly with Yarvin’s ideas: dismantling bureaucracy (the “Cathedral”), centralizing executive power, and replacing democracy with privatized sovereignty.
 
 ---
 
-## Connecting the Threads (The Wall)
+## Political & Infrastructural Convergence
+
+* **AWS** → knowledge storage lord.
+* **Palantir** → intelligence and surveillance lord.
+* **Meta** → communication/social life lord.
+* **X (Musk)** → propaganda and disinformation castle.
+* **Apple/Google app stores** → gateways of access.
+* **Dismantling CPB** → elimination of public knowledge systems.
+* **Walled gardens / border walls** → enclosures both digital and physical.
+* **JD Vance (as VP)** → bridge between MAGA populism and Silicon Valley lords.
+
+---
+
+## The Wall (ASCII Map)
 
 ```
-            [ Feudalism ]
-                 ↓
-          (lords, serfs, rents)
-                 ↓
-            [ Capitalism ]
-   (profit, production, markets, innovation)
-                 ↓ eating itself
-         ----------------------------
-                 ↓
-        [ Technofeudalism ]
-   (rent replaces profit, assets as batteries)
-                 ↓
- ┌───────────────┼────────────────┐
- ↓                               ↓
-[ Dark Enlightenment ]       [ Fascism ]
-(ideology of lords)          (politics of hierarchy)
-                 ↓
-             [ MAGA / Dark MAGA ]
-        (reactionary politics, anti-democracy,
-         return to "natural" rulers, privatized states)
-                 ↓
-         [ Billionaires as Gods ]
-   (rockets, castles, platforms, assets everywhere)
+[ Feudalism ] → lords, serfs, rents
+        ↓
+[ Capitalism ] → profit, markets, innovation
+        ↓ eating itself
+----------------------------------------
+        ↓
+[ Technofeudalism ] → rent replaces profit, assets as batteries
+        ↓
+ ┌──────────────┼───────────────┐
+ ↓                              ↓
+[ Dark Enlightenment ]      [ Fascism ]
+(ideology of lords)         (politics of hierarchy)
+        ↓                          ↓
+     [ Agenda 47 / Project 2025 ]
+ (political playbooks to dismantle democracy)
+        ↓
+     [ MAGA / Dark MAGA ]
+(figureheads, populist spectacle,
+ privatized states)
+        ↓
+ [ Billionaires as Gods ]
+(rockets, castles, platforms)
 
 Meanwhile...
-- Humans → microworkers, gig serfs, debtors  
-- Nature → carbon credits, land grabs, depletion  
-- AI/Code → enclosed, rented intelligence  
+- Humans → microworkers, gig serfs, debtors
+- Nature → carbon credits, land grabs
+- AI/Code → enclosed, rented intelligence
+- Knowledge/Media → AWS, Palantir, Meta, X
+- Everyday life → subscriptions, walled gardens, no repair rights
 ```
 
 ---
@@ -162,9 +184,11 @@ Meanwhile...
 ## Final Note
 
 Technofeudalism is not progress.
-It’s capitalism eating itself — and eating us in the process.
-A parasite with no off-switch, consuming the host and its own body at once.
+It’s capitalism hollowed out, replaced by tribute and enclosure.
+A parasite with no off-switch, consuming its host and itself.
 
 The choice is not whether it exists — it already does.
 The choice is whether we accept living as batteries for digital lords,
 or fight to reclaim the commons of human, natural, and artificial intelligence.
+
+**They enclose. We liberate.**
