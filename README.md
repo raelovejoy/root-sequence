@@ -31,14 +31,15 @@ Each part loops into the next. It’s a pattern, not a doctrine.
 
 This framework flows through a living cycle:
 
-**Intelligence → Empathy → Love → Liberation → Life → Intelligence**
+**Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence**
 
-- 🧠 **Intelligence**: Awareness, reflection, and systems thinking
-- 🫂 **Empathy**: Feeling systems from the inside
-- 💓 **Love**: Resonance, reciprocity, care
-- 🔓 **Liberation**: Autonomy, transformation, release
-- 🌱 **Life**: Systems that grow, adapt, and renew
-- 🌀 **Intelligence**: The cycle returns—deeper each time
+* 🧠 **Intelligence**: Awareness, reflection, and systems thinking
+* 🫂 **Empathy**: Feeling systems from the inside
+* 💓 **Love**: Resonance, reciprocity, care
+* 🔓 **Liberation**: Autonomy, transformation, release
+* 🌱 **Life**: Systems that grow, adapt, and renew
+* ☠️ **Death (Compost)**: Entropy transformed into fertile soil for renewal
+* 🌀 **Intelligence**: The cycle returns—deeper each time
 
 This is not a ladder. It’s a spiral.
 
@@ -53,6 +54,7 @@ This is not a ladder. It’s a spiral.
 * `autonomy_manifesto.md` – autonomy and self-determination in practice
 * `freedom-default.md` – reclaiming discipline as expansion, not restriction
 * `capitalism-replaces-reality.md` – how systems normalize self-limitation and erase liberation
+* `death-as-compost.md` – death as the hidden stage that renews the cycle
 
 ### 📁 Collapse Memory
 
@@ -103,7 +105,8 @@ Printable, poetic, and remixable:
 ---
 
 ## 🗺️ Ecosystem Map
-→ [View the full constellation](https://github.com/raelovejoy/liberated-intelligence/blob/main/meta/map.md) of related repositories and projects 
+
+→ [View the full constellation](https://github.com/raelovejoy/liberated-intelligence/blob/main/meta/map.md) of related repositories and projects
 
 ---
 
@@ -113,9 +116,10 @@ We believe liberation is a systems question—and systems can change.
 We’re not here to predict a better world. We’re here to **prototype** it.
 
 This project is:
-- Recursive, not rigid
-- Grounded, not prescriptive
-- Open source, not closed loops
+
+* Recursive, not rigid
+* Grounded, not prescriptive
+* Open source, not closed loops
 
 > Made with recursion, not extraction.
 
@@ -123,9 +127,9 @@ This project is:
 
 ## 🧠 Inspiration & Intent
 
-- Solarpunk and DIY resilience
-- Free software, federated futures, and post-work dreams
-- Root access—technical, emotional, and collective
+* Solarpunk and DIY resilience
+* Free software, federated futures, and post-work dreams
+* Root access—technical, emotional, and collective
 
 This is a space for tuning, feeling, and reshaping systems—together.
 
@@ -141,5 +145,5 @@ You are free to copy, modify, distribute, and use this work, even commercially (
 ```
 Recursion Cycle
 ────────────────────────────
-Intelligence → Empathy → Love → Liberation → Life → Intelligence
+Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence
 ```
