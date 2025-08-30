@@ -20,6 +20,7 @@ The Root Sequence is organized around four recursive layers:
 2. 📡 **Signals** – Core principles: intelligence, joy, recursion, repair
 3. 🌿 **Growth** – Practices of self-hosting, mutual aid, and open knowledge
 4. 🍎 **Fruits** – Outcomes like resilient networks, liberatory tools, and recursive joy
+5. ♻️ **Compost** – Endings and decay that feed back into the cycle, renewing intelligence and roots
 
 Each part loops into the next. It’s a pattern, not a doctrine.
 
