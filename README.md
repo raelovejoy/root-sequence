@@ -155,11 +155,3 @@ This is a space for tuning, feeling, and reshaping systems—together.
 **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**  
 
 You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
-
----
-
-Recursion Cycle
-
-────────────────────────────
-
-Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence
