@@ -46,7 +46,6 @@ What is seen becomes compost for what grows.
 * 🌀 **Intelligence**: The cycle returns—deeper each time  
 
 This is not a ladder. It’s a spiral.  
-[Read more →](core-texts/death-as-compost.md)
 
 ---
 
