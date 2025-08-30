@@ -59,9 +59,11 @@ Foundational essays on recursive systems and liberated intelligence:
 - `freedom-default.md` – reclaiming discipline as expansion  
 - `capitalism-reality.md` – how systems normalize self-limitation  
 - `death-as-compost.md` – death as hidden renewal  
-- `visibility-loop.md` – representation and imagination as seeds of liberation  
+- `visibility-loop.md` – representation and imagination as seeds of liberation
 
-### 🔎 Concepts ([`/concepts/`](concepts/))
+[Explore →](core-texts/)
+
+### 🔎 Concepts (`/concepts/`)
 Reference-style explorations:
 - what-is-intelligence.md  
 - what-is-liberation.md  
@@ -69,7 +71,9 @@ Reference-style explorations:
 - what-is-connection.md  
 - what-is-capitalism.md  
 - what-is-auryn.md  
-- what-is-personal-anarchism.md  
+- what-is-personal-anarchism.md
+
+[Explore →](concepts/)
 
 ### 📁 Collapse Memory (`/collapse-memory/`)
 A memory system + survival toolkit for post-collapse living.  
