@@ -24,6 +24,7 @@ Three-for-one if you include governments, now privatized vassals of corporations
 
 Sometimes mapping technofeudalism feels like this.
 But the threads really do connect.
+
 ![Alt text: Meme of Charlie Day in front of a chaotic corkboard with red string, looking frantic and conspiratorial. Used here as a metaphor for mapping the connections between capitalism, technofeudalism, Dark Enlightenment, fascism, MAGA, and billionaire power structures.](../assets/conspiracy-wall.jpg)
 
 ---
