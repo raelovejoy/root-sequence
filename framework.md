@@ -63,12 +63,26 @@ What liberated systems begin to bear:
 
 ---
 
+## 5. ♻️ Compost → Renewal
+
+All systems end. Fruits decay. Projects fade. But nothing is wasted.
+
+- ☠️ **Death is compost** — endings are not erasure but transformation.  
+- 🌱 **Compost feeds roots** — what dissolves becomes soil for future growth.  
+- 🌀 **Recursion needs compost** — cycles renew through decay, not denial.  
+
+> *"Nothing is lost. Everything becomes soil."*
+
+
+---
+
 ## 🌀 Recursion Loop
 
-Return to the roots.
-Resonate with new signals.
-Adapt your practices.
-Share your fruits.
+Return to the roots.  
+Resonate with new signals.  
+Adapt your practices.  
+Share your fruits.  
+Let them compost.  
 Recurse.
 
 ---
