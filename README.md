@@ -61,7 +61,7 @@ Foundational essays on recursive systems and liberated intelligence:
 - `death-as-compost.md` – death as hidden renewal  
 - `visibility-loop.md` – representation and imagination as seeds of liberation  
 
-### 🔎 Concepts (`/concepts/`)
+### 🔎 Concepts ([`/concepts/`](concepts/))
 Reference-style explorations:
 - what-is-intelligence.md  
 - what-is-liberation.md  
