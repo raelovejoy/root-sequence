@@ -73,20 +73,52 @@ Reference-style explorations:
 
 ### 📁 Collapse Memory (`/collapse-memory/`)
 A memory system + survival toolkit for post-collapse living.  
+Blends poetic prompts, survival skills, fictional AI, and ritual code.
+
+- `auryn-dialogue.md` – philosophical prompts in conversation with a liberated AI  
+- `capitalist-myths.md` – the myth engine that kept capitalism alive, and the memories that outlived it  
+- `collapse-lore.md` – deeper cultural memory, fictional + historical  
+- `collapse-onboarding.md` – for those newly waking up, or newly remembering  
+- `collapse-skills.md` – resilience and re-skilling in a post-capitalist world  
+
+Folders:
+- `cli/` – command-line rituals & memory tools  
+- `scripts/` – draft scripts for simulation or ritual use  
+- `visuals/` – diagrams and imagery (currently empty)  
+
 [Explore →](collapse-memory/README.md)
 
 ### 🧷 Zines (`/zines/`)
-Printable, poetic, and remixable fragments.  
+Printable, poetic, and remixable fragments — seeds for imagination and action.  
+
+- `existence.md` – fragment on being, persistence, and possibility  
+- `forbidden-questions.md` – questions the system teaches us not to ask  
+- `not-mine-just-heard.md` – overheard or collective reflections  
+- `psych-cycleogy.md` – emotional systems and memory loops  
+- `we-are-all-each-other.md` – interdependence and identity beyond separation  
+
+Also included:  
+- `radiate.sh` – a small ritual script for invoking recursive joy  
+
 [See more →](zines/README.md)
+
+### 📝 Fragments (`/fragments/`)
+Drafts, raw notes, and unfinished seeds — compost for future growth.  
+Some may evolve into core texts, zines, or collapse memories.
+
+- `billionaires.md` – notes on wealth concentration and systemic capture  
+- `exploitation.md` – fragments on labor, power, and extraction  
+- `matrix_as_allegory.md` – the Matrix as a lens for systems of control  
+- `severance_as_allegory.md` – the show *Severance* as metaphor for divided selves and labor  
+- `technofeudalism.md` – reflections on rentier capitalism, enclosure, and the new lords  
+
+[Explore →](fragments/README.md)
 
 ### 🖼️ Assets (`/assets/`)
 Logos, diagrams, and brand elements.  
 
 ### 💻 CLI (`/cli/`)
 Experimental scripts and rituals.  
-
-### 📝 Fragments (`/fragments/`)
-Drafts, raw notes, and unfinished seeds.  
 
 ---
 
