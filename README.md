@@ -156,4 +156,5 @@ You are free to copy, modify, distribute, and use this work, even commercially (
 
 Recursion Cycle
 ────────────────────────────
+
 Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence
