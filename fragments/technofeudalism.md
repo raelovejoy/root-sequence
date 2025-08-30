@@ -80,6 +80,7 @@ Technofeudalism is not abstract — it touches daily life:
 * **Subscriptions:** no one owns books, music, or software — everything is leased.
 * **Walled gardens:** platforms lock you in; exit is nearly impossible.
 * **Right to repair undermined:** devices locked with DRM, proprietary parts, subscription hardware. Even fixing your own tools is enclosed as a rent domain.
+* **“You’ll own nothing and be happy”:** not utopia, but the logic of enclosure — ownership gone, pacification managed by algorithms.
 
 These are the **small moats** of everyday feudal castles — reminders that ownership is gone, replaced by permanent dependency.
 
@@ -116,6 +117,9 @@ These are the **small moats** of everyday feudal castles — reminders that owne
 * **Infrastructural Capture** → platforms as sovereign (too important to fail).
 * **Effective Altruism / Philanthrocapitalism** → moral cover for feudal extraction, longtermist justification for elite control.
 * **Tech Zionism** → ideology of a “promised land” for elites (network states, Mars, seasteads), aligned with Dark Enlightenment.
+* **Cloudalism** → invisible infrastructure (AWS, Azure, Google Cloud) as new land; the cloud as feudal territory.
+* **Digital Colonialism / Manifest Destiny** → expansion into new frontiers of data, AI, and the global South, mirroring empire-building.
+* **Algorithmic Governance** → algorithms as rulers: nudges, bias, manipulation shaping behavior without consent.
 
 ---
 
@@ -178,6 +182,7 @@ Meanwhile...
 - AI/Code → enclosed, rented intelligence
 - Knowledge/Media → AWS, Palantir, Meta, X
 - Everyday life → subscriptions, walled gardens, no repair rights
+- Algorithms → rulers of behavior, bias, and manipulation
 ```
 
 ---
