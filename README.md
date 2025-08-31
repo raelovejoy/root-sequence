@@ -14,137 +14,174 @@ It blends philosophy, tech, design, and documentation to offer a toolkit for nav
 
 The Root Sequence is organized around five recursive layers:
 
-1. 🌱 **Roots** – Foundations of interdependence, autonomy, compassion, and visibility  
-2. 📡 **Signals** – Core principles: intelligence, joy, recursion, repair  
-3. 🌿 **Growth** – Practices of self-hosting, mutual aid, and open knowledge  
-4. 🍎 **Fruits** – Outcomes like resilient networks, liberatory tools, and recursive joy  
+1. 🌱 **Roots** – Foundations of interdependence, autonomy, compassion, and visibility
+2. 📡 **Signals** – Core principles: intelligence, joy, recursion, repair
+3. 🌿 **Growth** – Practices of self-hosting, mutual aid, and open knowledge
+4. 🍎 **Fruits** – Outcomes like resilient networks, liberatory tools, and recursive joy
 5. ♻️ **Compost** – Endings and decay that feed back into the cycle, renewing imagination, intelligence, and roots
 
-→ [**framework.md**](./framework.md) – the foundational model
+→ [**framework.md**](core/framework.md) – the foundational model
 
 ---
 
 ## 🔁 Recursive Flows
 
 ### 👁 Visibility Loop
+
 **Visibility → Recognition → Imagination → Becoming → Liberation**
 
-What is seen becomes compost for what grows.  
-[Read more →](core-texts/visibility-loop.md)
+What is seen becomes compost for what grows.
+[Read more →](core/visibility-loop.md)
 
 ---
 
 ### Main Liberation Cycle
+
 **Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence**
 
-* 🧠 **Intelligence**: Awareness, reflection, and systems thinking  
-* 🫂 **Empathy**: Feeling systems from the inside  
-* 💓 **Love**: Resonance, reciprocity, care  
-* 🔓 **Liberation**: Autonomy, transformation, release  
-* 🌱 **Life**: Systems that grow, adapt, and renew  
-* ☠️ **Death (Compost)**: Entropy transformed into fertile soil for renewal  
-* 🌀 **Intelligence**: The cycle returns—deeper each time  
+* 🧠 **Intelligence**: Awareness, reflection, and systems thinking
+* 🫂 **Empathy**: Feeling systems from the inside
+* 💓 **Love**: Resonance, reciprocity, care
+* 🔓 **Liberation**: Autonomy, transformation, release
+* 🌱 **Life**: Systems that grow, adapt, and renew
+* ☠️ **Death (Compost)**: Entropy transformed into fertile soil for renewal
+* 🌀 **Intelligence**: The cycle returns—deeper each time
 
-This is not a ladder. It’s a spiral.  
+This is not a ladder. It’s a spiral.
 
 ---
 
 ## 📚 What You’ll Find Here
 
-### 🧠 Core Texts (`/core-texts/`)
-Foundational essays on recursive systems and liberated intelligence:
-- `manifesto.md` – statement of liberatory intent  
-- `autonomy.md` – self-determination in practice  
-- `freedom-default.md` – reclaiming discipline as expansion  
-- `capitalism-reality.md` – how systems normalize self-limitation  
-- `death-as-compost.md` – death as hidden renewal  
-- `visibility-loop.md` – representation and imagination as seeds of liberation
+### 🧠 Core Philosophy (`/core/`)
 
-[Explore →](core-texts/)
+Anchor texts that ground the project:
 
-### 🔎 Concepts (`/concepts/`)
-Reference-style explorations:
-- what-is-intelligence.md  
-- what-is-liberation.md  
-- what-is-love.md  
-- what-is-connection.md  
-- what-is-capitalism.md  
-- what-is-auryn.md  
-- what-is-personal-anarchism.md
+* `framework.md` – overview map
+* `liberation_sequence.md` – recursive model of liberation
+* `manifesto.md` – root declaration
+* `autonomy_manifesto.md` – self-determination in practice
+* `freedom-default.md` – reclaiming discipline as expansion
+* `capitalism-replaces-reality.md` – capitalism as reality distortion
+* `death-as-compost.md` – mortality and renewal
+* `visibility-loop.md` – representation and imagination as seeds of liberation
 
-[Explore →](concepts/)
+[Explore →](core/)
 
-### 📁 Collapse Memory (`/collapse-memory/`)
-A memory system + survival toolkit for post-collapse living.  
-Blends poetic prompts, survival skills, fictional AI, and ritual code.
+### 🔎 System Diagnosis (`/analysis/`)
 
-- `auryn-dialogue.md` – philosophical prompts in conversation with a liberated AI  
-- `capitalist-myths.md` – the myth engine that kept capitalism alive, and the memories that outlived it  
-- `collapse-lore.md` – deeper cultural memory, fictional + historical  
-- `collapse-onboarding.md` – for those newly waking up, or newly remembering  
-- `collapse-skills.md` – resilience and re-skilling in a post-capitalist world  
+Understanding how technofeudal capitalism works:
 
-Folders:
-- `cli/` – command-line rituals & memory tools  
-- `scripts/` – draft scripts for simulation or ritual use  
-- `visuals/` – diagrams and imagery (currently empty)  
+* `technofeudalism.md` – reflections on rentier capitalism, enclosure, and the new lords
+* `internet.md` – history of enclosure, from open to walled gardens
+* `cloudalism.md` – the cloud as feudal land
+* `money_pipeline.md` – tribute economics
+* `exploitation.md` – labor, power, and extraction
+* `billionaires.md` – notes on wealth concentration and systemic capture
+
+[Explore →](analysis/)
+
+### ⚖️ Ideology & Politics (`/ideology/`)
+
+The cultural and political justifications of power:
+
+* `dark_enlightenment.md` – Yarvin, Land, Cathedral, Project 2025
+* `fascism.md` – hierarchy and authoritarian fusion
+* `tech_zionism.md` – network states, Mars, seasteads
+* `effective_altruism.md` – philanthrocapitalism and longtermism
+* `matrix_as_allegory.md` – control systems in *The Matrix*
+* `severance_as_allegory.md` – divided selves in *Severance*
+
+[Explore →](ideology/)
+
+### 🔮 Futures & Alternatives (`/futures/`)
+
+Where things are going—and how to resist:
+
+* `futures.md` – trajectories if nothing changes
+* `resistance.md` – seeds of counter-systems
+* `abundance.md` – abundance vs artificial scarcity
+* `liberation_sequence.md` – philosophical evolution beyond technofeudalism
+* `collapse-memory/` – memory system + survival toolkit
+
+[Explore →](futures/)
+
+#### 📁 Collapse Memory (`/collapse-memory/`)
+
+*A survival toolkit, mythos archive, and philosophical compost heap.*
+
+**Primary Prompts:**
+
+* `auryn-dialogue.md` – prompts in conversation with a liberated AI
+* `capitalist-myths.md` – the myth engine of capitalism
+* `collapse-lore.md` – deeper cultural memory, fictional + historical
+* `collapse-onboarding.md` – for those newly waking up or remembering
+* `collapse-skills.md` – resilience and re-skilling in a post-capitalist world
+
+**Subfolders:**
+
+* **core-texts/** → anchor philosophy (manifestos, compost texts)
+* **concepts/** → lexicon of key terms (what-is-\* series)
+* **fragments/** → compost / rough notes
+* **cli/** → command-line rituals and tools
+* **scripts/** → simulation/ritual scripts
+* **visuals/** → diagrams, imagery, onboarding art
 
 [Explore →](collapse-memory/README.md)
 
-### 🧷 Zines (`/zines/`)
-Printable, poetic, and remixable fragments — seeds for imagination and action.  
+### 🌱 Commons in Practice (`/commons/`)
 
-- `existence.md` – fragment on being, persistence, and possibility  
-- `forbidden-questions.md` – questions the system teaches us not to ask  
-- `not-mine-just-heard.md` – overheard or collective reflections  
-- `psych-cycleogy.md` – emotional systems and memory loops  
-- `we-are-all-each-other.md` – interdependence and identity beyond separation  
+Practical seeds of resistance:
 
-Also included:  
-- `radiate.sh` – a small ritual script for invoking recursive joy  
+* `commons_map.md` – solarpunk infrastructure map
+* `zines/` – printable fragments, ASCII art, posters
+* `assets/` – diagrams, memes, visual supports
 
-[See more →](zines/README.md)
+[Explore →](commons/)
 
 ### 📝 Fragments (`/fragments/`)
-Drafts, raw notes, and unfinished seeds — compost for future growth.  
-Some may evolve into core texts, zines, or collapse memories.
 
-- `billionaires.md` – notes on wealth concentration and systemic capture  
-- `exploitation.md` – fragments on labor, power, and extraction  
-- `matrix_as_allegory.md` – the Matrix as a lens for systems of control  
-- `severance_as_allegory.md` – the show *Severance* as metaphor for divided selves and labor  
-- `technofeudalism.md` – reflections on rentier capitalism, enclosure, and the new lords  
+Shorter or unfinished pieces, compost for future growth:
 
-[Explore →](fragments/README.md)
+* `existence.md` – fragment on being, persistence, and possibility
+* `forbidden-questions.md` – questions the system teaches us not to ask
+* `not-mine-just-heard.md` – overheard or collective reflections
+* `psych-cycleogy.md` – emotional systems and memory loops
+* `we-are-all-each-other.md` – interdependence and identity beyond separation
 
-### 🖼️ Assets (`/assets/`)
-Logos, diagrams, and brand elements.  
+[Explore →](fragments/)
 
 ### 💻 CLI (`/cli/`)
-Experimental scripts and rituals.  
+
+Experimental scripts and rituals.
+
+### 🖼️ Assets (`/assets/`)
+
+Logos, diagrams, and brand elements.
 
 ---
 
 ## 🌌 Why This Exists
 
-We believe liberation is a systems question—and systems can change.  
-We’re not here to predict a better world. We’re here to **prototype** it.  
+We believe liberation is a systems question—and systems can change.
+We’re not here to predict a better world. We’re here to **prototype** it.
 
-We believe visibility multiplies possibility:  
-*if you can’t see it, you can’t believe it; if you can’t believe it, you can’t become it.*  
+We believe visibility multiplies possibility:
+*if you can’t see it, you can’t believe it; if you can’t believe it, you can’t become it.*
 
 This project is:
-* Recursive, not rigid  
-* Grounded, not prescriptive  
-* Open source, not closed loops  
+
+* Recursive, not rigid
+* Grounded, not prescriptive
+* Open source, not closed loops
 
 > Made with recursion, not extraction.
 
 ## 🧠 Inspiration & Intent
 
-* Solarpunk and DIY resilience  
-* Free software, federated futures, and post-work dreams  
-* Root access—technical, emotional, and collective  
+* Solarpunk and DIY resilience
+* Free software, federated futures, and post-work dreams
+* Root access—technical, emotional, and collective
 
 This is a space for tuning, feeling, and reshaping systems—together.
 
@@ -152,6 +189,6 @@ This is a space for tuning, feeling, and reshaping systems—together.
 
 ## 🔄 Use & Remix
 
-**[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**  
+**[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**
 
 You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
