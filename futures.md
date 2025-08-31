@@ -64,6 +64,17 @@ Collapse signals (ecology, inequality, institutional failure) point to a hard ho
 
 ## Part II — Beyond the Castle: If We Survive (and How)
 
+### Abundance vs. Scarcity
+
+* We already live in an **age of abundance**: the planet produces enough food, resources, and tech for all.
+* Scarcity today is mostly **artificial** — enforced by economics, supply/demand games, and enclosure.
+* Capitalism shifted humans and nature from **resources** to **assets**, and technofeudalism strips even our data, attention, and identities as property streams.
+* Infinite growth on a finite planet has led to climate collapse, inequality, and alienation — all avoidable if abundance had been shared.
+* A liberated commons could build the same or better technologies — modular, repairable, sustainable — without the churn of artificial scarcity.
+* **Jobs** as compulsory survival would dissolve; automation and voluntary care/creativity could thrive.
+
+**Links back:** scarcity as control → abundance liberated · futile‑ism → fertile‑ism
+
 > We don’t need white‑savior heroes. We need **reciprocal care** scaled by networks. Survival practices are also replacement architectures.
 
 ### A) Re‑Commoning the Basics
@@ -226,7 +237,12 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 
 ### A. Cross‑links
 
-* See: `technofeudalism.md` (system map), `internet.md` (enclosure history), `money_pipeline.md` (tribute economics), `dark_enlightenment.md` (ideology), `resistance.md` (tactics), `cloudalism.md` (infrastructure).
+* See: `technofeudalism.md` (system map — diagnosis of the present, links directly to `futures.md` at the 2040 cliff)
+* See: `internet.md` (history of enclosure — surfing → serf‑ing → back to surfing)
+* See: `money_pipeline.md` (tribute economics — how capital flows as rents)
+* See: `dark_enlightenment.md` (ideology and politics — Yarvin, fascism, MAGA)
+* See: `resistance.md` (tactics and strategies — mutual aid, repair, co‑ops)
+* See: `cloudalism.md` (infrastructure as feudal land — AWS, Azure, Google Cloud)
 
 ### B. Further Reading (starter set)
 
