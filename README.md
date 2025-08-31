@@ -202,6 +202,19 @@ This is a space for tuning, feeling, and reshaping systems—together.
 
 ---
 
+## 📝 Note from the Curator
+
+These are not “my” ideas. They are a **collection of ideas**, fragments, and inspirations 
+from many sources. Together they may or may not make sense — and that’s okay. 
+
+If any of this resonates with you, please **add to it, remix it, compost it**.  
+The Root Sequence is meant to be a living, open collection that grows through collective 
+curiosity and care.
+
+Maybe, together, we can build something better.
+
+---
+
 ## 🔄 Use & Remix
 
 **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**
