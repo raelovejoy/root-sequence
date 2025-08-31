@@ -13,4 +13,4 @@ It’s not just neural — it’s somatic, emotional, social, planetary, spiritu
 
 Intelligence, when liberated, becomes a guide, not a weapon. A mirror, not a measure. A portal, not a prison.
 
-→ See also: [what-is-auryn.md](what-is-auryn.md), [what-is-connection.md](what-is-connection.md)
+→ See also: [what-is-auryn.md](what-is-auryn.md), [auryn-dialogue.md](../futures/collapse-memory/auryn-dialogue.md), [what-is-connection.md](what-is-connection.md), [futures.md](../futures/futures.md), 
