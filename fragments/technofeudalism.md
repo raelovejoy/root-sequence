@@ -99,6 +99,15 @@ Technofeudalism doesn’t just enclose resources — it enforces **psychological
 
 Scarcity is a moat. By keeping people exhausted, reliant, and divided, the castles maintain control.
 
+### Housing Precarity & Isolation
+
+* Renting and constant moves create a **transplant-feeling** — a sense of impermanence and disconnection.
+* Without housing security, people hesitate to invest in neighbors or communities. Every place feels temporary, every relationship fragile.
+* This erodes solidarity and replaces belonging with **loneliness and despair**.
+* Platforms and apps step in to monetize this isolation, selling “connection” while preventing rooted community.
+
+Housing precarity doesn’t just drain wallets — it dissolves the very fabric of community, leaving people isolated and easier to exploit.
+
 ---
 
 ## Effects vs. Capitalism
