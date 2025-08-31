@@ -81,8 +81,23 @@ Technofeudalism is not abstract — it touches daily life:
 * **Walled gardens:** platforms lock you in; exit is nearly impossible.
 * **Right to repair undermined:** devices locked with DRM, proprietary parts, subscription hardware. Even fixing your own tools is enclosed as a rent domain.
 * **“You’ll own nothing and be happy”:** not utopia, but the logic of enclosure — ownership gone, pacification managed by algorithms.
+* **Attention as labor:** your shift is not at a factory — it’s your attention, always on, always producing value for the lords.
+* **AI replacing agency:** not just jobs, but judgement, love, memory, and thought — colonizing inner life itself.
 
 These are the **small moats** of everyday feudal castles — reminders that ownership is gone, replaced by permanent dependency.
+
+---
+
+## Scarcity as Control
+
+Technofeudalism doesn’t just enclose resources — it enforces **psychological scarcity**:
+
+* **Survival mode:** people are kept scrambling for rent, wages, healthcare, and food. Empathy shrinks when basic needs aren’t met. Instead of solidarity, division grows.
+* **Maslow’s trap:** people rarely reach beyond basic needs, as the system ensures those needs are always precarious. Growth, creativity, and resistance are stifled.
+* **Reliance as rent:** dependency itself is enclosed — on landlords, bosses, platforms. Even belonging and intimacy are rented through apps, likes, and subscriptions.
+* **Divide and distract:** outrage cycles, culture wars, and algorithmic manipulation turn people against one another instead of the lords. Scarcity makes class war invisible.
+
+Scarcity is a moat. By keeping people exhausted, reliant, and divided, the castles maintain control.
 
 ---
 
@@ -120,6 +135,7 @@ These are the **small moats** of everyday feudal castles — reminders that owne
 * **Cloudalism** → invisible infrastructure (AWS, Azure, Google Cloud) as new land; the cloud as feudal territory.
 * **Digital Colonialism / Manifest Destiny** → expansion into new frontiers of data, AI, and the global South, mirroring empire-building.
 * **Algorithmic Governance** → algorithms as rulers: nudges, bias, manipulation shaping behavior without consent.
+* **Futile-ism** → capitalism’s endgame: futile striving under extraction, a system destined to consume itself and us.
 
 ---
 
@@ -147,6 +163,26 @@ Agenda 47 + Project 2025 align almost perfectly with Yarvin’s ideas: dismantli
 * **Dismantling CPB** → elimination of public knowledge systems.
 * **Walled gardens / border walls** → enclosures both digital and physical.
 * **JD Vance (as VP)** → bridge between MAGA populism and Silicon Valley lords.
+
+---
+
+## Futures: The 2040 Cliff
+
+Multiple studies (*Limits to Growth*, KPMG 2021, Earth4All 2022) suggest that if business-as-usual continues, global society could **collapse by the 2040s**.
+
+* Climate inertia ensures decades of heating, even if emissions stopped today.
+* Ecological thresholds (deforestation, biodiversity loss, soil depletion) have been breached.
+* Infrastructure is locked into fossil fuels and extractive supply chains.
+* Political paralysis ensures action comes too late.
+
+**Technofeudalism accelerates collapse:**
+
+* Encloses resources (water, land, data) instead of sharing them.
+* Suppresses commons-based solutions.
+* Profits more from collapse than from survival.
+* Castles prepare lifeboats (bunkers, Mars, seasteads) while serfs face the crash.
+
+The 2040s may be capitalism’s **hard stop** — the cliff edge where collapse either entrenches feudal castles or cracks them open for resistance, solarpunk alternatives, and liberated intelligence.
 
 ---
 
@@ -183,6 +219,7 @@ Meanwhile...
 - Knowledge/Media → AWS, Palantir, Meta, X
 - Everyday life → subscriptions, walled gardens, no repair rights
 - Algorithms → rulers of behavior, bias, and manipulation
+- Collapse trajectory → 2040 cliff ahead
 ```
 
 ---
