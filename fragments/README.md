@@ -1,14 +1,35 @@
-# Fragments
+# 📝 Fragments — Compost & Seeds
 
+*Unfinished, poetic, and experimental notes.*
 
-This folder gathers short manifesto-style essays that connect economics, technology, culture, and liberation. Each piece can stand alone but also fits into a larger whole.
+This folder collects **drafts, fragments, and partial thoughts**. They may later evolve into zines, core texts, or collapse memories — or remain as compost to inspire others.
 
+---
 
-- **exploitation.md** — On shared exploitation of humans and code.
-- **technofeudalism.md** — Theory of digital lords and rent extraction.
-- **severance_as_allegory.md** — Workplace/psychological exploitation.
-- **matrix_as_allegory.md** — Systemic enclosure of reality.
-- **billionaires.md** — Technofeudal lords feeding on life/velocity.
+## 📑 Contents
 
+* **existence.md** — fragments on being and persistence
+* **forbidden-questions.md** — questions the system teaches us not to ask
+* **not-mine-just-heard.md** — overheard reflections, collective thoughts
+* **psych-cycleogy.md** — emotional systems and recursive loops
+* **we-are-all-each-other.md** — interdependence and identity beyond separation
 
-Together, these fragments sketch a map of late capitalism and the possibilities for liberated intelligence.
+---
+
+## 🌱 Purpose
+
+* Hold **raw seeds** of future texts.
+* Encourage **play and experimentation**.
+* Provide **poetic compost** that nourishes core frameworks.
+
+---
+
+## 🔗 Navigation
+
+* Can grow into **analysis/** or **ideology/** essays.
+* Can spiral into **futures/** or **commons/** practices.
+* Often overlaps with **concepts/** as early definitions.
+
+---
+
+> Fragments remind us: unfinished is fertile.
