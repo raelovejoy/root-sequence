@@ -198,3 +198,13 @@ The choice is whether we accept living as batteries for digital lords,
 or fight to reclaim the commons of human, natural, and artificial intelligence.
 
 **They enclose. We liberate.**
+
+---
+
+### Futile-ism
+
+The “feudal” in technofeudalism also echoes **futile**.
+Like medieval serfs trapped in endless cycles of obligation, we’re bound by debts, subscriptions, and algorithms.
+Capitalism promised progress, but ends in depletion. Technofeudalism promises innovation, but ends in stagnation.
+
+It is not only feudal — it is **futile-ism**: an empire of castles feeding on decay, a system destined to consume itself along with us.
