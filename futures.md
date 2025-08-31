@@ -10,6 +10,34 @@ Collapse signals (ecology, inequality, institutional failure) point to a hard ho
 
 ---
 
+## Scarcity as Control
+
+Technofeudalism enforces scarcity not because resources are lacking, but because scarcity sustains rents and reliance:
+
+* **Survival mode:** people are kept scrambling for rent, wages, healthcare, and food. Empathy shrinks when basic needs aren’t met. Instead of solidarity, division grows.
+* **Maslow’s trap:** people rarely reach beyond basic needs, as the system ensures those needs are always precarious. Growth, creativity, and resistance are stifled.
+* **Reliance as rent:** dependency itself is enclosed — on landlords, bosses, platforms. Even belonging and intimacy are rented through apps, likes, and subscriptions.
+* **Divide and distract:** outrage cycles, culture wars, and algorithmic manipulation turn people against one another instead of the lords. Scarcity makes class war invisible.
+
+### Housing Precarity & Isolation
+
+* Renting and constant moves create a **transplant-feeling** — a sense of impermanence and disconnection.
+* Without housing security, people hesitate to invest in neighbors or communities. Every place feels temporary, every relationship fragile.
+* This erodes solidarity and replaces belonging with **loneliness and despair**.
+* Platforms and apps step in to monetize this isolation, selling “connection” while preventing rooted community.
+
+Housing precarity doesn’t just drain wallets — it dissolves the very fabric of community, leaving people isolated and easier to exploit.
+
+### Abundance vs. Scarcity
+
+* We live in an **age of abundance**: materially there is enough for all.
+* Scarcity today is largely **artificial** — enforced by enclosure, markets, and rents.
+* Humans and nature once treated as **resources** are now treated as **assets**, stripped and hoarded.
+* Infinite growth on a finite planet creates collapse, while denying people stability or dignity.
+* A liberated system could sustain everyone with better, more durable, more joyful technology — without the churn of artificial scarcity.
+
+---
+
 ## Part I — Inside the Castle: Likely Trajectories if Nothing Changes
 
 ### 1) Total Platform Sovereignty
