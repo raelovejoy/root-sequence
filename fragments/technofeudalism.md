@@ -97,6 +97,7 @@ Technofeudalism is not abstract — it touches daily life:
 * **“You’ll own nothing and be happy”:** not utopia, but the logic of enclosure — ownership gone, pacification managed by algorithms.
 * **Attention as labor:** your shift is not at a factory — it’s your attention, always on, always producing value for the lords.
 * **AI replacing agency:** not just jobs, but judgement, love, memory, and thought — colonizing inner life itself.
+* **Behavioral cues:** platforms like Facebook openly boast they can use subtle online signals to shape real-world behavior, often below conscious awareness. Algorithmic nudges bypass deliberation and enclose agency itself.
 
 These are the **small moats** of everyday feudal castles — reminders that ownership is gone, replaced by permanent dependency.
 
