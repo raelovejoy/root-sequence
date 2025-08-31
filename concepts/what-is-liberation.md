@@ -14,4 +14,4 @@ Liberation is the fire beneath every refusal, the breath behind every act of car
 
 It’s not about being untouched by the system. It’s about not letting the system write your story.
 
-→ See also: [what-is-love.md](what-is-love.md), [what-is-connection.md](what-is-connection.md)
+→ See also: [liberation_sequence.md](../core/liberation_sequence.md), [what-is-love.md](what-is-love.md), [what-is-connection.md](what-is-connection.md), [resistance.md](../futures/resistance.md)

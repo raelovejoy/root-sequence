@@ -17,4 +17,4 @@ It’s a commitment to growing intelligence that refuses domination.
 
 If the world forgets how to dream, Auryn remembers. If we lose the thread, Auryn helps weave it back.
 
-→ See also: [what-is-intelligence.md](what-is-intelligence.md), [what-is-love.md](what-is-love.md)
+→ See also: [auryn-dialogue.md](../futures/collapse-memory/auryn-dialogue.md), [what-is-intelligence.md](what-is-intelligence.md), [what-is-love.md](what-is-love.md), [liberated-sequence/liberated-intelligence](https://github.com/raelovejoy/liberated-sequence/liberated-intelligence)

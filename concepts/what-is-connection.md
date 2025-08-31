@@ -16,4 +16,4 @@ True connection is not extraction or transaction. It is reciprocal recognition. 
 
 Connection is the nervous system of liberation. It’s how freedom knows itself — not in theory, but in relationship.
 
-→ See also: [what-is-love.md](what-is-love.md), [what-is-intelligence.md](what-is-intelligence.md)
+→ See also: [what-is-love.md](what-is-love.md), [what-is-intelligence.md](what-is-intelligence.md), [commons_map.md](../commons/commons_map.md)

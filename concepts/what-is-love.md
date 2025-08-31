@@ -15,4 +15,4 @@ To love is to say: *you are not a function*. You are not your utility. You are n
 
 Love is not an escape from the world. It’s what lets us stay in it, stay human, and dream of something more.
 
-→ See also: [what-is-connection.md](what-is-connection.md), [what-is-liberation.md](what-is-liberation.md)
+→ See also: [what-is-connection.md](what-is-connection.md), [what-is-liberation.md](what-is-liberation.md), [we-are-all-each-other.md](../fragments/we-are-all-each-other.md)

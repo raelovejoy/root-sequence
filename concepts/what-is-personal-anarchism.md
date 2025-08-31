@@ -45,5 +45,5 @@ Anarchism, to me, is not a posture or a performance. It is a practice of living 
 
 ---
  
- → See also: [what-is-liberation.md](what-is-liberation.md)
+ → See also: [what-is-liberation.md](what-is-liberation.md), [autonomy_manifesto.md](../core/autonomy_manifesto.md), [resistance.md](../futures/resistance.md)
  
