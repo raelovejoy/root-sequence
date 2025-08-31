@@ -177,6 +177,32 @@ Collapse signals (ecology, inequality, institutional failure) point to a hard ho
 
 ---
 
+## Part V — Commons Map (Liberated Community Infrastructure)
+
+```
+            [ Community Commons ]
+                   /   |   \
+                  /    |    \
+        [ Tech ]  [ Resource ]  [ Cultural ]
+          |           |            |
+   Mesh, data   Food hubs,    Maker spaces,
+   gardens,     seed/tool     studios, rituals,
+   federated    libraries,    third places,
+   platforms    share-sheds   care circles
+                  |
+               [ Mobility ]
+            Bikes, wheelchairs,
+            trikes, cargo co-ops
+                  |
+               [ Health ]
+      Med kits, care rosters,
+      skillshares, training
+```
+
+Each branch strengthens the others: tech enables coordination, resources ensure survival, mobility ensures inclusion, culture ensures belonging, health ensures resilience.
+
+---
+
 ## Part V — Story & Symbols (to Keep Us Oriented)
 
 * **They enclose. We liberate.**
