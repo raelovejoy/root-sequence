@@ -54,3 +54,8 @@ It is here to **help us remember**:
 * Reference in zines or print as a poetic interlude
 
 **Let this myth fragment become compost. Let it grow something real.**
+
+---
+**See also:**  
+- [what-is-capitalism.md](../../concepts/what-is-capitalism.md) — the definition  
+- [technofeudalism.md](../../analysis/technofeudalism.md) — contemporary form

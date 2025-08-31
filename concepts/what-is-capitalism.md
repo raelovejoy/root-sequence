@@ -16,4 +16,4 @@ Capitalism may be the default operating system — but even here, we can choose 
 We can be intellectually liberated... even while materially constrained.  
 Systems-aware, values-aligned, and actively co-creating other possibilities.
 
-→ See also: [what-is-liberation.md](what-is-liberation.md)
+→ See also: [what-is-liberation.md](what-is-liberation.md), [technofeudalism.md](../analysis/technofeudalism.md), [capitalist-myths.md](../futures/collapse-memory/capitalist-myths.md)
