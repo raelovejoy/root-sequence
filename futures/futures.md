@@ -265,11 +265,11 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 
 ### A. Cross‑links
 
-* See: `technofeudalism.md` (system map — diagnosis of the present, links directly to `futures.md` at the 2040 cliff)
+* See: [`technofeudalism.md`](../analysis/technofeudalism.md) (system map — diagnosis of the present, links directly to `futures.md` at the 2040 cliff)
 * See: `internet.md` (history of enclosure — surfing → serf‑ing → back to surfing)
 * See: `money_pipeline.md` (tribute economics — how capital flows as rents)
 * See: `dark_enlightenment.md` (ideology and politics — Yarvin, fascism, MAGA)
-* See: `resistance.md` (tactics and strategies — mutual aid, repair, co‑ops)
+* See: [`resistance.md`](./resistance.md) (tactics and strategies — mutual aid, repair, co‑ops)
 * See: `cloudalism.md` (infrastructure as feudal land — AWS, Azure, Google Cloud)
 
 ### B. Further Reading (starter set)
@@ -283,3 +283,4 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 ---
 
 **Thesis:** The practices that keep us alive are the practices that make us free. Build the commons now.
+

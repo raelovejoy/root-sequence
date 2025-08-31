@@ -269,3 +269,8 @@ Like medieval serfs trapped in endless cycles of obligation, we’re bound by de
 Capitalism promised progress, but ends in depletion. Technofeudalism promises innovation, but ends in stagnation.
 
 It is not only feudal — it is **futile-ism**: an empire of castles feeding on decay, a system destined to consume itself along with us.
+
+---
+**See also:**  
+- [futures.md](../futures/futures.md) — where this path leads  
+- [what-is-capitalism.md](../concepts/what-is-capitalism.md) — core definition
