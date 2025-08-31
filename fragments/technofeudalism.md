@@ -62,6 +62,20 @@ It’s tribute: states feeding lords to keep castles afloat.
 
 ---
 
+## From Consumer Revolution to Digital Serfdom
+
+* **17th–18th century consumer revolution:** middle class emerges, buying goods beyond necessity. Shopping shifts from survival to leisure; possessions signal identity and aspiration.
+* **Adam Smith’s *Wealth of Nations* (1776):** division of labor, free markets, and a new framing of individuals as economic beings. Identity begins to tie to what we produce and consume.
+* **19th–20th century industrial consumerism:** mass production makes goods affordable. Suburbanization, cars, TV, and advertising embed materialism into daily life. Happiness and success equated with possessions — the “American Dream” as a shopping dream.
+* **Late 20th century:** credit cards, malls, debt-fueled consumerism. Computers and digital tech accelerate the pace — identity now tied not just to things, but to presence and performance.
+* **21st century digital acceleration:** ownership evaporates. Music, books, films, software, even cars are rented via subscription. Algorithms and platforms curate identity itself. Consumption replaces community. Debt, stress, and loneliness rise.
+
+> *“If I am what I have, and what I have is lost, who then am I?”* — Erich Fromm
+
+In technofeudalism, this question sharpens: what we “have” is never truly ours. Identity becomes precarious, tethered to platforms and possessions we don’t own. What began as liberation — the freedom to buy — becomes enclosure: the obligation to rent.
+
+---
+
 ## Cheapness as Enclosure
 
 * Bezos and Amazon demonstrate how **ultra-low prices** function as weapons.
