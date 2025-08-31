@@ -115,8 +115,12 @@ Collapse signals (ecology, inequality, institutional failure) point to a hard ho
 ### E) Culture, Ritual, and Health
 
 * **Rituals of belonging** (weekly potlucks, open mics, care circles) to reverse isolation.
-* **Health commons:** neighborhood med kits, CPR/Stop‑the‑Bleed trainings, care rosters.
+* **Health commons:** neighborhood med kits, CPR/Stop-the-Bleed trainings, care rosters.
 * **Repair the calendar:** sabbath from feeds; slow hours; collective screen hygiene.
+* **Third places:** community kitchens, cafés, leisure gardens, public courtyards — spaces designed for gathering, not consumption.
+* **Maker & creative hubs:** art/music studios, workshops, fab labs, repair cafés as cultural infrastructure.
+* **Mobility as inclusion:** accessible transport commons (bike-shares, wheelchairs, trikes, shuttles) to ensure everyone can participate.
+* **Resource pools:** clothing libraries, toy and tool swaps, gear closets — embedding generosity into everyday life.
 
 **Links back:** housing precarity → rootedness · loneliness → solidarity
 
