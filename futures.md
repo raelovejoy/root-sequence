@@ -201,6 +201,16 @@ Collapse signals (ecology, inequality, institutional failure) point to a hard ho
 
 Each branch strengthens the others: tech enables coordination, resources ensure survival, mobility ensures inclusion, culture ensures belonging, health ensures resilience.
 
+**Legend / Interpretation:** This map illustrates solarpunk resilience. Each commons is a living root system:
+
+* **Tech commons** weave networks to connect and coordinate.
+* **Resource commons** ground survival in shared abundance.
+* **Mobility commons** ensure equitable access and participation.
+* **Cultural commons** nurture identity, creativity, and belonging.
+* **Health commons** preserve life and care capacity.
+
+Together, they form an ecosystem of liberation — interdependent, regenerative, and resistant to enclosure.
+
 ---
 
 ## Part V — Story & Symbols (to Keep Us Oriented)
