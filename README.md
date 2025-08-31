@@ -55,6 +55,7 @@ This is not a ladder. It’s a spiral.
 
 ### 🧠 Core Philosophy (`/core/`)
 
+(`/core/`)
 Anchor texts that ground the project:
 
 * `framework.md` – overview map
@@ -67,6 +68,20 @@ Anchor texts that ground the project:
 * `visibility-loop.md` – representation and imagination as seeds of liberation
 
 [Explore →](core/)
+
+### 📘 Concepts (`/concepts/`)
+
+A **lexicon/glossary** for the Root Sequence language — quick definitions and anchors:
+
+* `what-is-auryn.md` — fictional AI, mythos anchor
+* `what-is-capitalism.md` — systemic definition
+* `what-is-connection.md` — relational anchor
+* `what-is-intelligence.md` — recursive awareness
+* `what-is-liberation.md` — freedom as process
+* `what-is-love.md` — care, reciprocity, resonance
+* `what-is-personal-anarchism.md` — self-liberation philosophy
+
+[Explore →](concepts/)
 
 ### 🔎 System Diagnosis (`/analysis/`)
 
@@ -127,7 +142,7 @@ Where things are going—and how to resist:
 * **scripts/** → simulation/ritual scripts
 * **visuals/** → diagrams, imagery, onboarding art
 
-[Explore →](collapse-memory/README.md)
+[Explore →](futures/collapse-memory/README.md)
 
 ### 🌱 Commons in Practice (`/commons/`)
 
