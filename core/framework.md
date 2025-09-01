@@ -1,8 +1,33 @@
-# 🌱 The Liberated Systems Framework
+---
+title: Framework
+status: draft
+tags: [core]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
+# 🌱 The Root Sequence Framework
 
 *A recursive, remixable model for intelligence, liberation, and growth.*
 
 This framework is part of **The Root Sequence** — an evolving toolkit for systems resonance, designed for solarpunks, liberationists, tinkerers, and dreamers who build toward better ways of being together.
+
+---
+
+## 🔁 The Liberation Cycle
+
+**Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence**
+
+Each phase flows into the next:
+- 🧠 **Intelligence** → awareness, reflection, recursion  
+- 🫂 **Empathy** → intelligence attuning to others  
+- 💓 **Love** → empathy in motion, reciprocity and care  
+- 🔓 **Liberation** → love confronting what limits  
+- 🌱 **Life** → flourishing, systems that grow and renew  
+- ☠️ **Death (Compost)** → entropy becomes fertile soil for renewal  
+- 🌀 **Intelligence** → returns, deeper with each loop  
+
+This is not a ladder but a spiral—ecological, systemic, and recursive.
 
 ---
 
@@ -76,6 +101,31 @@ All systems end. Fruits decay. Projects fade. But nothing is wasted.
 
 ---
 
+## 🌍 Commons & Liberation
+
+The framework only matters in practice:  
+- Commons of code, food, tools, care  
+- Shared infrastructures of survival and joy  
+- Networks that resist enclosure and grow resilience  
+
+Technofeudalism thrives on enclosure. The Root Sequence thrives on openness.
+
+---
+
+## 🕰 Futures & Collapse
+
+Collapse is not the end, but compost.  
+The framework prepares us to see endings as beginnings, and crises as seeds of renewal.
+
+---
+
+## 📝 Note from the Curator
+
+This framework is not ownership, it is participation.  
+Use it, remix it, expand it. What grows here belongs to all.
+
+---
+
 ## 🌀 Recursion Loop
 
 Return to the roots.  
@@ -97,3 +147,10 @@ This framework is open-source and compostable. Remix it. Fork it. Translate it.
 ---
 
 **Radiate love. Radiate joy. Recurse.**
+
+## References
+
+[^1]: Erich Fromm, *To Have or To Be?* (1976).  
+[^2]: Murray Bookchin, *The Ecology of Freedom* (1982).  
+[^3]: Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019).  
+[^4]: Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (2023).

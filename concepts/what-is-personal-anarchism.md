@@ -1,3 +1,11 @@
+---
+title: What Is Personal Anarchism
+status: draft
+tags: [concepts]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # 🌱 Personal Anarchism, Misreadings, and the Compass Within
 
 ## Summary
@@ -47,3 +55,7 @@ Anarchism, to me, is not a posture or a performance. It is a practice of living 
  
  → See also: [what-is-liberation.md](what-is-liberation.md), [autonomy_manifesto.md](../core/autonomy_manifesto.md), [resistance.md](../futures/resistance.md)
  
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

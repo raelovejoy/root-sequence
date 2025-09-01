@@ -1,3 +1,11 @@
+---
+title: What Is Connection
+status: draft
+tags: [concepts]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # $ whatis connection
 
 Connection is not just proximity. It's presence. Mutual awareness. The willingness to be changed by encounter.
@@ -17,3 +25,7 @@ True connection is not extraction or transaction. It is reciprocal recognition. 
 Connection is the nervous system of liberation. It’s how freedom knows itself — not in theory, but in relationship.
 
 → See also: [what-is-love.md](what-is-love.md), [what-is-intelligence.md](what-is-intelligence.md), [commons_map.md](../commons/commons_map.md)
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

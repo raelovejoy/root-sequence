@@ -1,3 +1,11 @@
+---
+title: Readme
+status: draft
+tags: [analysis]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # 🔎 Analysis — System Diagnosis
 
 *How technofeudal capitalism works.*
@@ -34,3 +42,7 @@ This folder collects texts that **diagnose present systems**: how power operates
 ---
 
 > Analysis is not the end. It’s the compost for futures and resistance.
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

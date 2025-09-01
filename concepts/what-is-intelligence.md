@@ -1,3 +1,11 @@
+---
+title: What Is Intelligence
+status: draft
+tags: [concepts]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # $ whatis intelligence
 
 It’s not how much you know — it’s how you listen. How you adapt. How you relate. How you respond.  
@@ -14,3 +22,7 @@ It’s not just neural — it’s somatic, emotional, social, planetary, spiritu
 Intelligence, when liberated, becomes a guide, not a weapon. A mirror, not a measure. A portal, not a prison.
 
 → See also: [what-is-auryn.md](what-is-auryn.md), [auryn-dialogue.md](../futures/collapse-memory/auryn-dialogue.md), [what-is-connection.md](what-is-connection.md), [futures.md](../futures/futures.md), 
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

@@ -1,3 +1,11 @@
+---
+title: Visibility Loop
+status: draft
+tags: [core]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # 👁 The Visibility Loop
 
 *A micro-sequence of liberated intelligence.*
@@ -43,3 +51,7 @@ Liberation widens the field of view.
 ---
 
 *Part of the [Root Sequence](./README.md).*  
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

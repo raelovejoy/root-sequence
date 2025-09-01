@@ -1,3 +1,11 @@
+---
+title: What Is Love
+status: draft
+tags: [concepts]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # $ whatis love
 
 Love is not a reward. It's not earned or deserved. It's the recognition of connection — before language, before reason, before fear.  
@@ -16,3 +24,7 @@ To love is to say: *you are not a function*. You are not your utility. You are n
 Love is not an escape from the world. It’s what lets us stay in it, stay human, and dream of something more.
 
 → See also: [what-is-connection.md](what-is-connection.md), [what-is-liberation.md](what-is-liberation.md), [we-are-all-each-other.md](../fragments/we-are-all-each-other.md)
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

@@ -1,3 +1,11 @@
+---
+title: Readme
+status: draft
+tags: [concepts]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # 📘 Concepts — Root Sequence Lexicon
 
 *A glossary of key terms, anchors, and working definitions.*
@@ -39,3 +47,7 @@ Each concept text ends with a **See also** footer to guide you toward:
 
 > Concepts are not fixed. They are waypoints in an evolving map.
 > Like compost, they break down and re-form into future thought.
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

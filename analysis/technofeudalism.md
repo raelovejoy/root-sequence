@@ -1,3 +1,11 @@
+---
+title: Technofeudalism
+status: draft
+tags: [analysis, enclosure, rents]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # Technofeudalism
 
 ## TL;DR
@@ -274,3 +282,9 @@ It is not only feudal — it is **futile-ism**: an empire of castles feeding on 
 **See also:**  
 - [futures.md](../futures/futures.md) — where this path leads  
 - [what-is-capitalism.md](../concepts/what-is-capitalism.md) — core definition
+
+## References
+
+[^1]: Varoufakis, Y. *Technofeudalism: What Killed Capitalism* (2023).
+[^2]: Cory Doctorow. 'Enshittification' essays. Pluralistic.net.
+[^3]: Shoshana Zuboff. *The Age of Surveillance Capitalism* (2019).

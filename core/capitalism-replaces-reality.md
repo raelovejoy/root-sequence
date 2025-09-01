@@ -1,3 +1,11 @@
+---
+title: Capitalism Replaces Reality
+status: draft
+tags: [core]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # 🧠 Capitalism Replaces Reality
 
 > *“Self-limitation is not a personal failing—it’s a designed feature.”*
@@ -91,3 +99,7 @@ To reclaim reality is to remember:
 * Expand into community guides or collective unlearning rituals
 
 **This document is compost. Remix it. Reseed it. Reclaim reality.**
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

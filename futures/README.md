@@ -1,3 +1,11 @@
+---
+title: Readme
+status: draft
+tags: [futures]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # 🔮 Futures — Collapse & Alternatives
 
 *Where it’s going, and how to resist.*
@@ -34,3 +42,7 @@ This folder explores **possible trajectories** of our systems: collapse, authori
 ---
 
 > Futures are not predictions. They are prototypes for liberation.
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

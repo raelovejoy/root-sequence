@@ -1,3 +1,11 @@
+---
+title: Futures
+status: draft
+tags: [futures]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # Futures: Inside and Beyond the Castle
 
 *A scenarios map for technofeudal trajectories — and how to outgrow them.*
@@ -284,3 +292,7 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 
 **Thesis:** The practices that keep us alive are the practices that make us free. Build the commons now.
 
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

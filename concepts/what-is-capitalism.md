@@ -1,3 +1,11 @@
+---
+title: What Is Capitalism
+status: draft
+tags: [concepts]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # $ whatis capitalism
 
 A totalizing system that doesn't just exploit and extract from the world — it shapes how we see it, and how we see ourselves.  
@@ -17,3 +25,7 @@ We can be intellectually liberated... even while materially constrained.
 Systems-aware, values-aligned, and actively co-creating other possibilities.
 
 → See also: [what-is-liberation.md](what-is-liberation.md), [technofeudalism.md](../analysis/technofeudalism.md), [capitalist-myths.md](../futures/collapse-memory/capitalist-myths.md)
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

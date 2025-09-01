@@ -1,3 +1,11 @@
+---
+title: Death As Compost
+status: draft
+tags: [core]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # Death as Compost
 
 In the Root Sequence, death is not the end. It is the hidden stage that closes the loop and makes the cycle regenerative. Without death, the cycle would exhaust itself. With death, it composts back into **Intelligence**, feeding the next turn.
@@ -55,3 +63,7 @@ Intelligence → Empathy → Love → Liberation → Life → Death (Compost) �
 * **Death is the compost that sustains life.**
 * **To fear death is to fear the soil itself.**
 * **To embrace death is to embrace renewal.**
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

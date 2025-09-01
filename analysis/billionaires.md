@@ -1,3 +1,11 @@
+---
+title: Billionaires
+status: draft
+tags: [analysis]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # Billionaires as Digital Lords
 
 
@@ -23,3 +31,7 @@ Low interest rates inflate billionaire assets. High rates hurt everyone else. In
 
 ## Conclusion
 Billionaires embody technofeudalism. They are not captains of industry but lords of enclosure, feeding on human labor, creativity, and attention.
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

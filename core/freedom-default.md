@@ -1,3 +1,11 @@
+---
+title: Freedom Default
+status: draft
+tags: [core]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # 🌱 Freedom as Default
 
 > *“You call this radical? You’ve just forgotten what freedom feels like.”*
@@ -61,3 +69,7 @@ Freedom is the natural state. What’s radical is the lie that says otherwise.
 - Not handed to you, but awakened through daily acts of care.
 
 **Freedom is the default. The rest is interruption.**
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.

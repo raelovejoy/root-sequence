@@ -1,3 +1,11 @@
+---
+title: What Is Liberation
+status: draft
+tags: [concepts]
+---
+
+> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
+
 # $ whatis liberation
 
 It’s not a destination — it’s a direction. A relationship. A process of ongoing de-conditioning, re-connection, and reimagining.  
@@ -15,3 +23,7 @@ Liberation is the fire beneath every refusal, the breath behind every act of car
 It’s not about being untouched by the system. It’s about not letting the system write your story.
 
 → See also: [liberation_sequence.md](../core/liberation_sequence.md), [what-is-love.md](what-is-love.md), [what-is-connection.md](what-is-connection.md), [resistance.md](../futures/resistance.md)
+
+## References
+
+[^1]: Source placeholder. Replace with relevant references.
