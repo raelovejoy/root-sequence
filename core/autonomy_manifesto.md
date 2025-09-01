@@ -1,9 +1,8 @@
 ---
-
 title: Autonomy\_Manifesto
 status: draft
-tags: \[core, autonomy, manifesto]
-----------------------------------
+tags: [core, autonomy, manifesto]
+---
 
 > **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
 
