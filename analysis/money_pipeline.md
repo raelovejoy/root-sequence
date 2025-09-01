@@ -1,5 +1,5 @@
 ---
-title: Money_Pipeline
+title: Money Pipeline
 status: draft
 tags: [analysis]
 ---

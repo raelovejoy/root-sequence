@@ -1,5 +1,5 @@
 ---
-title: Autonomy\_Manifesto
+title: Autonomy Manifesto
 status: draft
 tags: [core, autonomy, manifesto]
 ---
