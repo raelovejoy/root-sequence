@@ -229,6 +229,13 @@ curiosity and care.
 Maybe, together, we can build something better.
 
 ---
+## 📑 Citations
+
+This project uses **Markdown footnotes** for references  
+(e.g. `[^1]` in the text → full reference at the bottom of the file).  
+They are meant as pointers and compost for further reading, not rigid authority.
+
+---
 
 ## 🔄 Use & Remix
 
