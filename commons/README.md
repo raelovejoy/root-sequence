@@ -11,8 +11,18 @@ It’s where theory composts into practice — not abstract, but lived.
 
 * [commons_map.md](commons_map.md) — solarpunk infrastructure map  
 * [zines/](zines/README.md) — printable, shareable fragments and manifestos  
+  - 🌱 solarpunk-anti-cooption.md  
 * [fragments/](fragments/README.md) — compost pieces, unfinished notes, drafts  
-* [assets/](assets/) — diagrams, memes, visual supports  
+  - ✨ existence.md  
+  - ❓ forbidden-questions.md  
+  - 🗣 not-mine-just-heard.md  
+  - 🌀 psych-cycleogy.md  
+  - 🤝 we-are-all-each-other.md  
+  - 🌈 joy.md  
+  - 🎲 play.md  
+  - 🛠 repair.md  
+* [assets/](assets/) — diagrams, memes, visual supports
+
 
 ---
 

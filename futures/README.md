@@ -16,11 +16,13 @@ This folder explores **possible trajectories** of our systems: collapse, authori
 
 ## 📑 Contents
 
-* **futures.md** — baseline scenarios if nothing changes
-* **resistance.md** — seeds of counter-systems and survival practices
-* **abundance.md** — challenging scarcity, reclaiming enough
-* **liberation\_sequence.md** — philosophical evolution beyond technofeudalism
-* **collapse-memory/** — survival toolkit, mythos archive, ritual compost
+* **futures.md** — trajectories if nothing changes  
+* **resilience.md** — practices of survival and renewal  
+* **collapse-practices.md** — drills, rehearsals, and shared adaptation  
+* **resistance.md** — seeds of counter-systems  
+* **abundance.md** — abundance vs artificial scarcity  
+* **liberated_intelligence.md** — beyond tool, toward being  
+* **collapse-memory/** — memory system + survival toolkit
 
 ---
 

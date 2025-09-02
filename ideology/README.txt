@@ -10,6 +10,7 @@ This folder gathers texts that trace the **political, cultural, and philosophica
 
 * **dark_enlightenment.md** — Curtis Yarvin, Nick Land, the Cathedral, CEO-monarchs  
 * **fascism.md** — hierarchy, aesthetics, and authoritarian fusion of state, corporate, and cultural power  
+* **eco_fascism.md** — ecology and purity co-opted into authoritarian responses  
 * **tech_zionism.md** — seasteads, Mars, and the “network state” ideology  
 * **effective_altruism.md** — philanthrocapitalism, longtermism, moral cover  
 * **matrix_as_allegory.md** — control systems in *The Matrix*  

@@ -10,10 +10,13 @@ This folder collects texts that **diagnose present systems**: how power operates
 
 * **technofeudalism.md** — accumulation through depletion, rentier lords  
 * **internet.md** — from open web to walled gardens  
+* **digital_enclosure.md** — walled gardens and privatization of the digital commons  
+* **digital_colonialism.md** — data extraction as global empire  
 * **cloudalism.md** — the cloud as digital feudal land  
 * **money_pipeline.md** — tribute economics, bailouts, and asset capture  
 * **exploitation.md** — fragments on labor, extraction, invisible work  
 * **billionaires.md** — notes on wealth concentration and systemic capture  
+* **surveillance_engine.md** — life captured, visibility turned into control
 
 ---
 

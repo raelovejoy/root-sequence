@@ -8,13 +8,25 @@ They are not fixed doctrine — they are compost, designed to be remixed and ren
 
 ## 📚 Contents
 
-- [**Manifesto**](manifesto.md) — the living signal of resonance, love, and liberation  
-- [**Framework**](framework.md) — the structural model of the Root Sequence cycle  
-- [**Autonomy Manifesto**](autonomy_manifesto.md) — self-determination within interdependence  
-- [**Freedom Default**](freedom-default.md) — freedom as baseline, constraint as exception  
-- [**Capitalism Replaces Reality**](capitalism-replaces-reality.md) — how substitution narrows experience and replaces life  
-- [**Death as Compost**](death-as-compost.md) — endings as renewal, decay as fertile soil for new intelligence  
-- [**Visibility Loop**](visibility-loop.md) — representation, recognition, and imagination as seeds of liberation  
+- [manifesto.md](manifesto.md) — the living signal of curiosity, love, and liberation  
+- [framework.md](framework.md) — the structural model of the Root Sequence cycle  
+- [autonomy_manifesto.md](autonomy_manifesto.md) — self-determination within interdependence  
+- [freedom-default.md](freedom-default.md) — freedom as baseline, constraint as exception  
+- [capitalism-replaces-reality.md](capitalism-replaces-reality.md) — capitalism as reality distortion  
+- [death-as-compost.md](death-as-compost.md) — endings as renewal in the cycle  
+- [visibility-loop.md](visibility-loop.md) — representation and imagination as seeds of liberation  
+- [curiosity.md](curiosity.md) — the spark that begins the cycle  
+- [empathy.md](empathy.md) — intelligence in relation  
+- [liberated_intelligence.md](liberated_intelligence.md) — beyond tool, toward being
+
+---
+
+## 🔗 Navigation
+
+- See **/analysis/** for system diagnosis (e.g., [technofeudalism](../analysis/technofeudalism.md)).  
+- See **/ideology/** for justifications of power (e.g., [fascism](../ideology/fascism.md)).  
+- See **/futures/** for trajectories and practices (e.g., [resilience](../futures/resilience.md), [collapse-practices](../futures/collapse-practices.md)).  
+- See **/commons/** for zines and fragments (e.g., [zines](../commons/zines/README.md), [fragments](../commons/fragments/README.md)).
 
 ---
 
