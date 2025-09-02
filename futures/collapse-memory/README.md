@@ -82,6 +82,7 @@ From the main Root Sequence:
 - [`capitalism-replaces-reality.md`](../capitalism-replaces-reality.md) — Self-limitation as systemic control
 - [`autonomy_manifesto.md`](../autonomy_manifesto.md) — Reclaiming inner sovereignty
 - [`zines/forbidden-questions.md`](../zines/forbidden-questions.md) — The questions we’re not supposed to ask
+- [Fascism](../../ideology/fascism.md) — ecofascism and authoritarian collapse responses.
 
 ---
 
