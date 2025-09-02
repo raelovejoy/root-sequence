@@ -168,7 +168,7 @@ Experimental scripts and rituals.
 
 ### 🖼️ Assets (`/assets/`)
 
-Logos, diagrams, and brand elements.
+Logos, diagrams, and other elements.
 
 ---
 
