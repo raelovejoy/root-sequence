@@ -28,7 +28,7 @@ They are not fixed doctrine — they are compost, designed to be remixed and ren
 
 ## 🔁 The Root Sequence Cycle
 
-**Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence**
+**Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Curiosity**
 
 This recursive loop is the thread across every core text.  
 Each text explores one or more aspects of this cycle in detail — and together, they form a living model of liberation.
