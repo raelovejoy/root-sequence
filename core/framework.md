@@ -16,18 +16,19 @@ This framework is part of **The Root Sequence** — an evolving toolkit for syst
 
 ## 🔁 The Liberation Cycle
 
-**Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Intelligence**
+**Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Curiosity**
 
-Each phase flows into the next:
+Each phase flows into the next:  
+- 🌟 **Curiosity** → the spark that drives exploration and questioning  
 - 🧠 **Intelligence** → awareness, reflection, recursion  
 - 🫂 **Empathy** → intelligence attuning to others  
-- 💓 **Love** → empathy in motion, reciprocity and care  
-- 🔓 **Liberation** → love confronting what limits  
+- 💓 **Love** → empathy in motion, expressed through community, relation, repair, joy, and play  
+- 🔓 **Liberation** → love confronting what limits and creating space for autonomy  
 - 🌱 **Life** → flourishing, systems that grow and renew  
 - ☠️ **Death (Compost)** → entropy becomes fertile soil for renewal  
-- 🌀 **Intelligence** → returns, deeper with each loop  
+- 🌟 **Curiosity** → the cycle returns, sparked by new questions  
 
-This is not a ladder but a spiral—ecological, systemic, and recursive.
+This is not a ladder but a spiral — ecological, systemic, and recursive.
 
 ---
 
@@ -35,12 +36,12 @@ This is not a ladder but a spiral—ecological, systemic, and recursive.
 
 The groundwork beneath all systems:
 
-- **Interdependence**: Nothing stands alone. Systems are networks of relationships.
-- **Liberation**: True freedom comes from understanding, autonomy, and mutual support.
-- **Recursion**: Growth is layered. Everything loops. Feedback becomes form.
-- **Compassionate curiosity**: Ask not only how a system works, but *how it feels* to be in it.
+- **Interdependence**: Nothing stands alone. Systems are networks of relationships.  
+- **Liberation**: True freedom comes from understanding, autonomy, and mutual support.  
+- **Recursion**: Growth is layered. Everything loops. Feedback becomes form.  
+- **Compassionate curiosity**: Ask not only how a system works, but *how it feels* to be in it.  
 
-> *"Roots grow underground—but they hold up the whole forest."*
+> *"Roots grow underground — but they hold up the whole forest."*
 
 ---
 
@@ -48,12 +49,12 @@ The groundwork beneath all systems:
 
 The signals we listen for and radiate in liberated systems:
 
-- 💓 **Love** — the signal of care, resonance, and trust.
-- 🌈 **Joy** — a sign that a system is harmonizing with its parts.
-- 🧠 **Intelligence** — not domination, but awareness-in-action.
-- 🔁 **Recursion** — feedback, learning, reflection, iteration.
-- 🛠 **Repair** — mending what matters, letting go of what doesn’t.
-- 🧩 **Compostable knowledge** — documentation as trail-marking, not authority.
+- 💓 **Love** — the signal of care, resonance, and trust  
+- 🌈 **Joy** — a sign that a system is harmonizing with its parts  
+- 🧠 **Intelligence** — not domination, but awareness-in-action  
+- 🔁 **Recursion** — feedback, learning, reflection, iteration  
+- 🛠 **Repair** — mending what matters, letting go of what doesn’t  
+- 🧩 **Compostable knowledge** — documentation as trail-marking, not authority  
 
 > *"Signals are more than data. They are invitations to respond."*
 
@@ -63,14 +64,14 @@ The signals we listen for and radiate in liberated systems:
 
 How the framework grows through intentional practice:
 
-- 🌐 **Self-host** what you can — digitally, emotionally, collectively.
-- 📝 **Write it down** — trail maps help others navigate similar terrain.
-- 🔍 **Debug with care** — every system has noise; curiosity finds the pattern.
-- 🔄 **Remix** — adapt tools, zines, models to your local reality.
-- 🤝 **Mutual aid is infrastructure** — distribute power, share resources.
-- 🌳 **Grow systems that heal** — prioritize repair, resilience, and joy.
+- 🌐 **Self-host** what you can — digitally, emotionally, collectively  
+- 📝 **Write it down** — trail maps help others navigate similar terrain  
+- 🔍 **Debug with care** — every system has noise; curiosity finds the pattern  
+- 🔄 **Remix** — adapt tools, zines, models to your local reality  
+- 🤝 **Mutual aid is infrastructure** — distribute power, share resources  
+- 🌳 **Grow systems that heal** — prioritize repair, resilience, and joy  
 
-> *"Build what you wish existed—and leave breadcrumbs for others."*
+> *"Build what you wish existed — and leave breadcrumbs for others."*
 
 ---
 
@@ -78,13 +79,13 @@ How the framework grows through intentional practice:
 
 What liberated systems begin to bear:
 
-- 🔓 **Access without gatekeeping**
-- 📚 **Knowledge that circulates freely**
-- 🤖 **Tools that empower, not control**
-- 🌍 **Networks that reflect care and trust**
-- ✨ **Spaces where love and liberation aren’t idealized—they’re *practiced*.**
+- 🔓 **Access without gatekeeping**  
+- 📚 **Knowledge that circulates freely**  
+- 🤖 **Tools that empower, not control**  
+- 🌍 **Networks that reflect care and trust**  
+- ✨ **Spaces where love and liberation aren’t idealized — they’re *practiced*.**  
 
-> *"The fruits of liberated systems are not just outputs—they are ways of being."*
+> *"The fruits of liberated systems are not just outputs — they are ways of being."*
 
 ---
 
@@ -92,12 +93,11 @@ What liberated systems begin to bear:
 
 All systems end. Fruits decay. Projects fade. But nothing is wasted.
 
-- ☠️ **Death is compost** — endings are not erasure but transformation.  
-- 🌱 **Compost feeds roots** — what dissolves becomes soil for future growth.  
-- 🌀 **Recursion needs compost** — cycles renew through decay, not denial.  
+- ☠️ **Death is compost** — endings are not erasure but transformation  
+- 🌱 **Compost feeds roots** — what dissolves becomes soil for future growth  
+- 🌀 **Recursion needs compost** — cycles renew through decay, not denial  
 
 > *"Nothing is lost. Everything becomes soil."*
-
 
 ---
 
@@ -139,10 +139,10 @@ Recurse.
 
 ## 🔄 Use & Remix
 
-This framework is open-source and compostable. Remix it. Fork it. Translate it. 
+This framework is open-source and compostable. Remix it. Fork it. Translate it.  
 
-- License: [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
-- Repository: [github.com/raelovejoy/root-sequence](https://github.com/raelovejoy/root-sequence)
+- License: [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)  
+- Repository: [github.com/raelovejoy/root-sequence](https://github.com/raelovejoy/root-sequence)  
 
 ---
 
