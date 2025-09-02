@@ -1,11 +1,3 @@
----
-title: Autonomy Manifesto
-status: draft
-tags: [core, autonomy, manifesto]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 🌱 The Autonomy & Self-Determination Manifesto
 
 > *“You are not a product. You are not a brand. You are not a profile. You are a pattern in motion—a system, not a simulation.”*

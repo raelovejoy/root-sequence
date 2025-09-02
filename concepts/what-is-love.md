@@ -1,11 +1,3 @@
----
-title: What Is Love
-status: draft
-tags: [concepts]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # $ whatis love
 
 Love is not a reward. It's not earned or deserved. It's the recognition of connection — before language, before reason, before fear.  

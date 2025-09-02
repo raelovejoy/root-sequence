@@ -1,11 +1,3 @@
----
-title: What Is Personal Anarchism
-status: draft
-tags: [concepts]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 🌱 Personal Anarchism, Misreadings, and the Compass Within
 
 ## Summary

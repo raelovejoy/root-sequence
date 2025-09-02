@@ -1,11 +1,3 @@
----
-title: Framework
-status: draft
-tags: [core]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 🌱 The Root Sequence Framework
 
 *A recursive, remixable model for intelligence, liberation, and growth.*

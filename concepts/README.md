@@ -1,11 +1,3 @@
----
-title: Readme
-status: draft
-tags: [concepts]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 📘 Concepts — Root Sequence Lexicon
 
 *A glossary of key terms, anchors, and working definitions.*

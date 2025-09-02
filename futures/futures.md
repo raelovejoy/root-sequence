@@ -1,11 +1,3 @@
----
-title: Futures
-status: draft
-tags: [futures]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # Futures: Inside and Beyond the Castle
 
 *A scenarios map for technofeudal trajectories — and how to outgrow them.*

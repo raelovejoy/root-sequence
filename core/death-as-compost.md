@@ -1,11 +1,3 @@
----
-title: Death As Compost
-status: draft
-tags: [core]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # Death as Compost
 
 In the Root Sequence, death is not the end. It is the hidden stage that closes the loop and makes the cycle regenerative. Without death, the cycle would exhaust itself. With death, it composts back into **curiosity and intelligence**, feeding the next turn.

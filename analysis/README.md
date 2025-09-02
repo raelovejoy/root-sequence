@@ -1,11 +1,3 @@
----
-title: Readme
-status: draft
-tags: [analysis]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 🔎 Analysis — System Diagnosis
 
 *How technofeudal capitalism works.*

@@ -1,11 +1,3 @@
----
-title: Billionaires
-status: draft
-tags: [analysis]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # Billionaires as Digital Lords
 
 

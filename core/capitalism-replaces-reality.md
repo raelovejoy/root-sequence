@@ -1,11 +1,3 @@
----
-title: Capitalism Replaces Reality
-status: draft
-tags: [core]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 🧠 Capitalism Replaces Reality
 
 > *“Self-limitation is not a personal failing—it’s a designed feature.”*

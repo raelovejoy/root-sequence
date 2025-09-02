@@ -1,11 +1,3 @@
----
-title: Core Texts
-status: draft
-tags: [core]
----
-
-> **Note on Citations**: This section uses markdown footnotes for references. See the bottom for sources.
-
 # 🌱 Core Texts
 
 The **Core Texts** are the foundation of the Root Sequence.  

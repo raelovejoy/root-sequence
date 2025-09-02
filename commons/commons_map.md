@@ -1,9 +1,3 @@
----
-title: Commons Map
-status: draft
-tags: [commons, solarpunk, infrastructure, practice]
----
-
 # 🗺 Commons Map
 *Solarpunk infrastructures, practices, and resources.*
 

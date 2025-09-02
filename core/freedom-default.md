@@ -1,11 +1,3 @@
----
-title: Freedom Default
-status: draft
-tags: [core]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 🌱 Freedom as Default
 
 > *“You call this radical? You’ve just forgotten what freedom feels like.”*

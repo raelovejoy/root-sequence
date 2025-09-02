@@ -1,11 +1,3 @@
----
-title: Technofeudalism
-status: draft
-tags: [analysis, enclosure, rents]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # Technofeudalism
 
 ## TL;DR

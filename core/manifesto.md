@@ -1,11 +1,3 @@
----
-title: Manifesto
-status: draft
-tags: [core]
----
-
-> **Note on Citations**: This document uses markdown footnotes for references. See the bottom for sources.
-
 # 🌱 Root Sequence Manifesto
 
 > *Empathy is intelligence in its liberated form. Love is empathy in motion. Curiosity is the spark that begins it all.*
