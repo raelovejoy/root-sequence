@@ -18,7 +18,8 @@ It is the dark shadow of solarpunk — purity, harmony, and “nature” weaponi
 
 - Related to [Fascism](fascism.md) — ecofascism as a variant of authoritarian hierarchy.  
 - Connected to [Technofeudalism](../analysis/technofeudalism.md) — enclosure of land and resources.  
-- Countered by [Commons](../commons/README.md) — collective, plural, liberatory ecological practices.  
+- Countered by [Commons](../commons/README.md) — collective, plural, liberatory ecological practices.
+- Challenged by [Solarpunk Anti-Cooption](../commons/zines/solarpunk-anti-cooption.md) — resisting the drift of solarpunk into ecofascist aesthetics.  
 
 ---
 
