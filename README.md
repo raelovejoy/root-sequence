@@ -146,32 +146,21 @@ Where things are going—and how to resist:
 
 ### 🌱 Commons in Practice (`/commons/`)
 
-Practical seeds of resistance:
+Practical seeds of resistance and everyday liberation: where theory composts into practice.  
+This folder gathers maps, zines, fragments, and visual supports.
 
-* `commons_map.md` – solarpunk infrastructure map  
-* `zines/` – printable fragments, ASCII art, posters  
-
-  **Current Zines:**
+* `commons_map.md` — solarpunk infrastructure map  
+* `zines/` — printable, public-facing fragments and manifestos  
   - 🌱 [Solarpunk Anti-Cooption Manifesto](commons/zines/solarpunk-anti-cooption.md)  
-  - ❓ [Forbidden Questions](commons/zines/forbidden-questions.md)  
-  - ✨ [Existence](commons/zines/existence.md)  
-  - 🤝 [We Are All Each Other](commons/zines/we-are-all-each-other.md)  
-
-* `assets/` – diagrams, memes, visual supports  
+* `fragments/` — compost texts, unfinished drafts, raw seeds  
+  - ✨ [Existence](commons/fragments/existence.md)  
+  - ❓ [Forbidden Questions](commons/fragments/forbidden-questions.md)  
+  - 🗣 [Not Mine, Just Heard](commons/fragments/not-mine-just-heard.md)  
+  - 🌀 [Psych-Cycleogy](commons/fragments/psych-cycleogy.md)  
+  - 🤝 [We Are All Each Other](commons/fragments/we-are-all-each-other.md)  
+* `assets/` — diagrams, memes, and visual supports  
 
 [Explore →](commons/)
-
-### 📝 Fragments (`/fragments/`)
-
-Shorter or unfinished pieces, compost for future growth:
-
-* `existence.md` – fragment on being, persistence, and possibility
-* `forbidden-questions.md` – questions the system teaches us not to ask
-* `not-mine-just-heard.md` – overheard or collective reflections
-* `psych-cycleogy.md` – emotional systems and memory loops
-* `we-are-all-each-other.md` – interdependence and identity beyond separation
-
-[Explore →](fragments/)
 
 ### 💻 CLI (`/cli/`)
 
