@@ -148,9 +148,16 @@ Where things are going—and how to resist:
 
 Practical seeds of resistance:
 
-* `commons_map.md` – solarpunk infrastructure map
-* `zines/` – printable fragments, ASCII art, posters
-* `assets/` – diagrams, memes, visual supports
+* `commons_map.md` – solarpunk infrastructure map  
+* `zines/` – printable fragments, ASCII art, posters  
+
+  **Current Zines:**
+  - 🌱 [Solarpunk Anti-Cooption Manifesto](commons/zines/solarpunk-anti-cooption.md)  
+  - ❓ [Forbidden Questions](commons/zines/forbidden-questions.md)  
+  - ✨ [Existence](commons/zines/existence.md)  
+  - 🤝 [We Are All Each Other](commons/zines/we-are-all-each-other.md)  
+
+* `assets/` – diagrams, memes, visual supports  
 
 [Explore →](commons/)
 

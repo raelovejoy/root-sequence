@@ -1,3 +1,9 @@
+---
+title: Solarpunk Anti-Cooption Manifesto
+status: draft
+tags: [solarpunk, antifascist, manifesto, zine, core]
+---
+
 # 🌱 Solarpunk Anti-Cooption Manifesto
 *Against Greenwashing, Against Ecofascism, For Liberation*
 

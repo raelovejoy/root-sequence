@@ -9,7 +9,7 @@ This folder gathers **practical tools, maps, and cultural seeds** for building a
 ## 📑 Contents
 
 * **commons\_map.md** — solarpunk infrastructures and practices
-* **zines/** — printable, poetic fragments and posters
+* [zines/](zines/README.md) — printable, poetic fragments and manifestos
 * **assets/** — diagrams, memes, and visual supports
 
 ---
