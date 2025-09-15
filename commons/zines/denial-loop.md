@@ -11,34 +11,30 @@ This pattern is what we call **The Denial Loop**.
 
 ## Visual Map
 
-  ┌─────────────────────────┐
-  │  Overt Prejudice        │
-  │  ("Yes, I dislike...")  │
-  └──────────┬──────────────┘
-             │ Generational shift
-             ▼
-  ┌─────────────────────────┐
-  │  Denial of Label        │
-  │  ("I'm not X, but...")  │
-  └──────────┬──────────────┘
-             │ Normalization
-             ▼
-  ┌─────────────────────────┐
-  │  Blind Spot / Common    │
-  │  Sense ("Tradition")    │
-  └──────────┬──────────────┘
-             │ Cultural Hegemony
-             ▼
-  ┌─────────────────────────┐
-  │  Accountability Gap     │
-  │  (Actions ≠ Self-image) │
-  └──────────┬──────────────┘
-             │ Resistance / Activism
-             ▼
-  ┌─────────────────────────┐
-  │  Critical Awareness     │
-  │  (Naming + Owning It)   │
-  └─────────────────────────┘
+┌─────────────────────────┐
+│  Overt Prejudice        │ ("Yes, I dislike...")
+└──────────┬──────────────┘
+           │ Generational shift
+           ▼
+┌─────────────────────────┐
+│  Denial of Label        │ ("I'm not X, but…")
+└──────────┬──────────────┘
+           │ Normalization
+           ▼
+┌─────────────────────────┐
+│  Blind Spot / Tradition │
+└──────────┬──────────────┘
+           │ Cultural Hegemony
+           ▼
+┌─────────────────────────┐
+│  Accountability Gap     │ (Actions ≠ Self-image)
+└──────────┬──────────────┘
+           │ Resistance / Activism
+           ▼
+┌─────────────────────────┐
+│  Critical Awareness     │ (Naming + Owning It)
+└─────────────────────────┘
+
 
 This is recursive: either the loop resets, or it spirals upward toward critical awareness.
 
