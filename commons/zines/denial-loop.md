@@ -9,10 +9,8 @@ This pattern is what we call **The Denial Loop**.
 
 ---
 
-```markdown
 ## Visual Map
 
-```mermaid
 flowchart TD
   A["Overt Prejudice<br/>('Yes, I dislike…')"] --> B["Denial of Label<br/>('I'm not X, but…')"]
   B --> C["Blind Spot / 'Tradition'"]
