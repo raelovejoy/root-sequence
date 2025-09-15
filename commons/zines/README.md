@@ -9,7 +9,9 @@ They are the **cut-and-paste futures** of the Root Sequence — outward-facing, 
 ## 📖 Contents
 
 - 🌱 [Solarpunk Anti-Cooption Manifesto](solarpunk-anti-cooption.md)  
-  *Against greenwashing & ecofascist drift; grounding solarpunk in liberation.*  
+  *Against greenwashing & ecofascist drift; grounding solarpunk in liberation.*
+- 🌀 [The Denial Loop](commons/zines/denial-loop.md) 
+  *How prejudice mutates across generations through denial, normalization, and blind spots.*
 
 *(Add more as they emerge… each zine is compost for the next.)*
 
