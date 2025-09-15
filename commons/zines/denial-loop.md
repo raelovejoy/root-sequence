@@ -11,7 +11,7 @@ This pattern is what we call **The Denial Loop**.
 
 ## Visual Map
 
-┌─────────────────────────┐
+`┌─────────────────────────┐
 │  Overt Prejudice        │ ("Yes, I dislike...")
 └──────────┬──────────────┘
            │ Generational shift
@@ -33,8 +33,7 @@ This pattern is what we call **The Denial Loop**.
            ▼
 ┌─────────────────────────┐
 │  Critical Awareness     │ (Naming + Owning It)
-└─────────────────────────┘
-
+└─────────────────────────┘`
 
 This is recursive: either the loop resets, or it spirals upward toward critical awareness.
 
