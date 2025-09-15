@@ -179,6 +179,7 @@ This folder gathers maps, zines, fragments, and visual supports.
 * [Commons Map](commons/commons_map.md) — solarpunk infrastructure map  
 * [Zines](commons/zines/README.md) — printable, public-facing fragments and manifestos  
   - 🌱 [Solarpunk Anti-Cooption Manifesto](commons/zines/solarpunk-anti-cooption.md)  
+  - 🌀 [The Denial Loop](commons/zines/denial-loop.md)  
 * [Fragments](commons/fragments/README.md) — compost texts, unfinished drafts, raw seeds  
   - ✨ [Existence](commons/fragments/existence.md)  
   - ❓ [Forbidden Questions](commons/fragments/forbidden-questions.md)  
