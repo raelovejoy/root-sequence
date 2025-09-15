@@ -11,16 +11,15 @@ This pattern is what we call **The Denial Loop**.
 
 ## Visual Map
 
-flowchart TD
-  A["Overt Prejudice<br/>('Yes, I dislike…')"] --> B["Denial of Label<br/>('I'm not X, but…')"]
-  B --> C["Blind Spot / 'Tradition'"]
-  C --> D["Accountability Gap<br/>(Actions ≠ Self-image)"]
-  D --> E["Critical Awareness<br/>(Naming + Owning It)"]
-  
-  C -->|Cultural Hegemony| D
-  D -->|Resistance / Activism| E
-  B -->|Normalization| C
-  A -->|Generational Shift| B
+- Overt Prejudice ("Yes, I dislike…")
+  - Generational shift →
+- Denial of Label ("I'm not X, but…")
+  - Normalization →
+- Blind Spot / "Tradition"
+  - Cultural Hegemony →
+- Accountability Gap (Actions ≠ Self-image)
+  - Resistance / Activism →
+- Critical Awareness (Naming + Owning It)
 
 This is recursive: either the loop resets, or it spirals upward toward critical awareness.
 
