@@ -12,7 +12,7 @@ It’s where theory composts into practice — not abstract, but lived.
 * [commons_map.md](commons_map.md) — solarpunk infrastructure map  
 * [zines/](zines/README.md) — printable, shareable fragments and manifestos  
   - 🌱 solarpunk-anti-cooption.md
-  - - 🌀 denial-loop.md 
+  - 🌀 denial-loop.md 
 * [fragments/](fragments/README.md) — compost pieces, unfinished notes, drafts  
   - ✨ existence.md  
   - ❓ forbidden-questions.md  
