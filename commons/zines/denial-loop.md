@@ -1,4 +1,4 @@
-# The Denial Loop (Merged & Expanded)
+# The Denial Loop
 
 ## Overview
 
@@ -8,7 +8,6 @@ Oppression rarely disappears; it **mutates**. Overt prejudice shifts into denial
 
 ## Visual Map (ASCII)
 
-<<<<<<< HEAD
 ```text
 ┌─────────────────────────┐
 │  Overt Prejudice        │ ("Yes, I dislike…")
@@ -39,17 +38,6 @@ Oppression rarely disappears; it **mutates**. Overt prejudice shifts into denial
 │  Critical Awareness     │ (Naming + Owning It)
 └─────────────────────────┘
 ```
-=======
-- Overt Prejudice ("Yes, I dislike…")
-  - Generational shift →
-- Denial of Label ("I'm not X, but…")
-  - Normalization →
-- Blind Spot / "Tradition"
-  - Cultural Hegemony →
-- Accountability Gap (Actions ≠ Self-image)
-  - Resistance / Activism →
-- Critical Awareness (Naming + Owning It)
->>>>>>> d170421b4e81cfb23a78c4911b59efd0b399382c
 
 > This loop is recursive: it can reset, or spiral upward toward awareness and repair.
 
@@ -68,7 +56,7 @@ flowchart TD
 
 ---
 
-## Diagnostic Framework (Merged)
+## Diagnostic Framework
 
 1. **Denial of label** → evasive “I’m not X, but…” responses.
 2. **Performed belief (half‑belief / belonging)** → repeating talking points without conviction to maintain identity or safety.
