@@ -2,7 +2,7 @@
 
 ## Overview
 
-Oppression rarely disappears; it **mutates**. Overt prejudice shifts into denial of the label, then into **performed beliefs** (said/acted for belonging), which fuels normalization and blind spots. The result is an **accountability gap** between self‑image and impact. This merged edition combines your original zine text with the expanded “performed belief” layer.
+Oppression rarely disappears; it **mutates**. Overt prejudice shifts into denial of the label, then into **performed beliefs** (said/acted for belonging), which fuels normalization and blind spots. The result is an **accountability gap** between self‑image and impact. This merged edition combines your original zine text with the expanded “performed belief” layer, and now also situates it alongside related concepts in philosophy and social theory.
 
 ---
 
@@ -74,7 +74,18 @@ flowchart TD
 
 ---
 
-## Theory Connections
+## Related Concepts
+
+* **Cognitive Dissonance (Festinger)** — the inner contradiction between beliefs and actions. People resolve this tension through denial, excuse, or rationalization. The Denial Loop shows how this gets carried forward across generations.
+* **False Consciousness (Marx/Engels)** — misperceiving one’s social reality due to ideology. Aligns with half‑beliefs and normalization that mask systemic harm.
+* **Cultural Hegemony (Gramsci)** — ruling ideas become “common sense.” Mirrors the Blind Spot/Tradition stage.
+* **Internalized Oppression (hooks, Freire, Fanon)** — marginalized groups reproducing harmful hierarchies for survival or belonging. Connects to performed belief.
+* **Performance of Self (Goffman, Žižek)** — people act out beliefs they don’t hold, but the performance itself sustains the system. Žižek: *“They know very well what they are doing, but still, they are doing it.”*
+* **Normalization of Deviance (Vaughan)** — harmful actions become normalized over time. Reflects the move from performance to blind spot.
+
+---
+
+## Theory Connections (core set)
 
 * **Gramsci — Cultural Hegemony**: domination via “common sense.”
 * **Foucault — Power/Knowledge**: power hides in normalization.
