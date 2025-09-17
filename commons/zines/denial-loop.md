@@ -26,6 +26,7 @@ Blind Spot / "Tradition" (common sense)
    ↳ False Consciousness (Marx/Engels)
    ↳ Cultural Hegemony (Gramsci)
    ↳ Signal Manipulation (manufactured consent)
+   ↳ Capitalist Connection Hijack (love → options, compassion → power)
         │
         ▼
 Accountability Gap (Actions ≠ Self-image)
@@ -52,7 +53,7 @@ flowchart TD
 
   B -->|Performed Belief| PB["Performed Belief / Belonging<br/>(half-belief)<br/>↳ Goffman (performance)<br/>↳ Žižek (ideology)<br/>↳ hooks/Fanon (internal oppression)<br/>↳ Vulnerability Exploited"]
 
-  PB -->|Normalization| C["Blind Spot / Tradition<br/>(‘common sense’)<br/>↳ Marx/Engels (false consciousness)<br/>↳ Gramsci (hegemony)<br/>↳ Signal Manipulation"]
+  PB -->|Normalization| C["Blind Spot / Tradition<br/>(‘common sense’)<br/>↳ Marx/Engels (false consciousness)<br/>↳ Gramsci (hegemony)<br/>↳ Signal Manipulation<br/>↳ Capitalist Hijack of Connection"]
 
   C -->|Institutionalization| D["Accountability Gap<br/>(Actions ≠ Self-image)<br/>↳ Festinger (cognitive dissonance)<br/>↳ Vaughan (normalization of deviance)<br/>↳ Persuasion Shortcuts"]
 
@@ -66,9 +67,10 @@ flowchart TD
 1. **Denial of label** → evasive “I’m not X, but…” responses.
 2. **Performed belief (half-belief / belonging)** → repeating talking points without conviction to maintain safety or status.
 3. **Normalization of harm** → framed as tradition, morality, or “common sense”; reinforced by institutions and media.
-4. **Accountability gap** → harm continues while self-image remains “good/neutral.”
-5. **Exploitation of vulnerability** → need for connection manipulated into toxic belonging.
-6. **Critical awareness** → naming contradictions; shifting norms; repairing harm.
+4. **Capitalist hijack of connection** → love/compassion replaced with consumption, options, and power.
+5. **Accountability gap** → harm continues while self-image remains “good/neutral.”
+6. **Exploitation of vulnerability** → need for connection manipulated into toxic belonging.
+7. **Critical awareness** → naming contradictions; shifting norms; repairing harm.
 
 ---
 
@@ -78,6 +80,7 @@ flowchart TD
 * **Classism, Colonialism, Nationalism/Xenophobia**
 * **Consumerism, Environmental destruction, Tech bias, Religious intolerance**
 * **Media manipulation, Disinformation, Manufactured consent**
+* **Capitalist connection systems — social media, advertising, corporate belonging**
 
 ---
 
@@ -93,6 +96,7 @@ flowchart TD
 * **Cialdini — Persuasion Principles**: exploiting reciprocity, authority, scarcity, etc.
 * **Herman & Chomsky — Manufactured Consent**: systemic manipulation of signals and belonging.
 * **Festinger — Cognitive Dissonance**: inner contradiction between belief and action.
+* **Angela McRobbie — Cultural “Post-feminism”**: commodified liberation as a form of control (ties into capitalist hijack).
 
 ---
 
@@ -106,6 +110,7 @@ flowchart TD
 * **Normalization of Deviance (Vaughan)** — harmful actions normalized.
 * **Persuasion Shortcuts (Cialdini)** — predictable vulnerabilities exploited.
 * **Manufactured Consent (Herman & Chomsky)** — structural manipulation of belonging.
+* **Capitalist Hijack of Connection** — compassion re-coded into consumer “options.”
 
 ---
 
@@ -119,6 +124,7 @@ flowchart TD
 * **“If you can’t say yes or no, the answer is already showing.”**
 * **“Liberation begins by naming the gap between self-image and action.”**
 * **“Connection can liberate, or it can be weaponized.”**
+* **“Capital sells us options and calls it love.”**
 
 ---
 
